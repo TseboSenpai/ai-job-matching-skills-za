@@ -1,0 +1,86 @@
+id,label,kind,category,in_esco,verified
+BASIC_ED,Grade 10 / Junior Certificate / ABET,credential,school,False,1
+GR12,Grade 12 / Matric (National Senior Certificate),credential,school,False,1
+NCV_L2,NC(V) Level 2,credential,tvet,False,1
+NCV_L3,NC(V) Level 3,credential,tvet,False,1
+NCV_L4,NC(V) Level 4,credential,tvet,False,1
+N1,N1 certificate,credential,tvet,False,0
+N2,N2 certificate,credential,tvet,False,0
+N3,N3 certificate,credential,tvet,False,0
+N4,N4 certificate,credential,tvet,False,0
+N5,N5 certificate,credential,tvet,False,0
+N6,N6 certificate,credential,tvet,False,0
+NDIP_N,National N Diploma,credential,tvet,False,1
+HIGHER_CERT,Higher Certificate,credential,higher,False,1
+DIPLOMA,National Diploma / NQF 6 qualification,credential,higher,False,1
+DEGREE,Bachelor's degree / NQF 7,credential,higher,True,1
+HONOURS,Honours / postgraduate (NQF 8),credential,higher,False,1
+TRADE_TEST,Trade test certificate (artisan),credential,trade,True,0
+LEARNERSHIP,Learnership,credential,occupational,False,1
+SETA_CERT,SETA-accredited certificate,credential,occupational,False,1
+ASSESSOR,Assessor / moderator certificate,credential,occupational,True,1
+LIC_ANY,Valid driver's licence (any code),credential,licence,True,1
+LIC_B,Code B (old Code 08),credential,licence,False,1
+LIC_EB,Code EB,credential,licence,False,1
+LIC_C1,Code C1 (old Code 10),credential,licence,False,1
+LIC_C,Code C,credential,licence,False,1
+LIC_EC,Code EC (old Code 14),credential,licence,False,1
+PRDP,Professional Driving Permit (PrDP),credential,licence,False,1
+REG_HPCSA,HPCSA registration,credential,registration,False,1
+REG_SANC,SANC registration (nursing),credential,registration,False,1
+REG_SACSSP,SACSSP registration (social work),credential,registration,False,1
+REG_SAPC,SAPC registration (pharmacy),credential,registration,False,1
+REG_ECSA,ECSA registration (engineering),credential,registration,False,1
+REG_SACPCMP,SACPCMP registration (construction PM),credential,registration,False,1
+REG_SACQSP,SACQSP registration (quantity surveying),credential,registration,False,1
+REG_SACAP,SACAP registration (architecture),credential,registration,False,1
+REG_SACE,SACE registration (educators),credential,registration,False,1
+REG_PSIRA,PSIRA registration (security),credential,registration,False,1
+REG_EAPASA,EAPASA registration (environmental),credential,registration,False,1
+REG_SAIOSH,SAIOSH registration (safety),credential,registration,False,1
+REG_CA,CA(SA) / SAICA / SAIPA / CIMA,credential,registration,False,1
+REG_RE5,RE5 (financial services),credential,registration,False,1
+MIN_BLASTING,Blasting certificate,credential,mining,False,1
+MIN_COMPETENT,Competent A / B certificate,credential,mining,False,1
+MIN_MANAGER,Mine Manager's Certificate of Competency,credential,mining,False,1
+MIN_SUPERVISOR,Production Supervisor Certificate of Competence,credential,mining,False,1
+MIN_GCC,Government Certificate of Competency (GCC),credential,mining,False,1
+MIN_FITNESS,Medical Certificate of Fitness,credential,mining,False,1
+MIN_VALUATION,Valuation certificate (COM),credential,mining,False,1
+MIN_VENT,Mine Environmental Control certificate,credential,mining,False,1
+MIN_MHSA_APPT,MHSA / OHS Act legal appointment,credential,mining,False,1
+SAF_FIRSTAID,First Aid certificate,credential,safety,True,1
+SAF_SAMTRAC,SAMTRAC,credential,safety,False,1
+SAF_FIREARM,Firearm competency certificate,credential,safety,False,1
+EMS_QUAL,EMS qualification (BLS / ILS / ALS),credential,health,False,1
+EMS_CPG,Clinical Practice Guidelines (CPG) certificate,credential,health,False,1
+NURSE_R425,Basic nursing qualification (R425),credential,health,False,1
+PS_NYUKELA,SMS Pre-Entry (Nyukela) certificate,credential,public_service,False,1
+PS_PERSAL_CERT,PERSAL certificate,credential,public_service,False,1
+SYS_PERSAL,PERSAL (government payroll/HR system),term,system,False,1
+SYS_BAS,BAS (Basic Accounting System),term,system,False,1
+SYS_LOGIS,LOGIS (government logistics system),term,system,False,1
+SYS_NATIS,NaTIS (traffic information system),term,system,False,1
+SYS_CSD,Central Supplier Database (CSD),term,system,False,1
+SYS_SAP,SAP,term,system,False,1
+SYS_PASTEL,Pastel accounting,term,system,False,1
+SYS_SYSPRO,Syspro ERP,term,system,False,1
+SYS_DMS,Dealer management system (Evolve),term,system,True,1
+SYS_EMIS,EMIS (education information system),term,system,False,1
+LAW_PFMA,PFMA,term,legislation,False,1
+LAW_MFMA,MFMA,term,legislation,False,1
+LAW_PPPFA,PPPFA / B-BBEE procurement,term,legislation,False,1
+LAW_TREASURY,Treasury Regulations,term,legislation,False,1
+LAW_MHSA,Mine Health and Safety Act,term,legislation,False,1
+LAW_OHS,OHS Act / COIDA,term,legislation,False,1
+LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)",term,legislation,False,1
+LAW_POPIA,POPIA / PAIA,term,legislation,False,1
+LAW_NEMA,NEMA (environmental law),term,legislation,False,1
+LAW_CHILDREN,Children's Act / Older Persons Act,term,legislation,False,1
+LAW_ROAD,Road traffic and transport legislation,term,legislation,False,1
+LAW_CONSUMER,Consumer Protection / National Credit Act,term,legislation,False,1
+FW_BATHO_PELE,Batho Pele principles,term,framework,False,1
+FW_PMDS,PMDS (performance management),term,framework,False,1
+FW_SIAS,SIAS / White Paper 6 (inclusive education),term,framework,False,1
+FW_ROADSPEC,"Road specifications (COLTO, COTO, TMH)",term,framework,False,1
+FW_CONTRACTS,"Construction contracts (GCC, FIDIC, NEC)",term,framework,False,1

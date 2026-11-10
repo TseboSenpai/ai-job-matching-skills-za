@@ -1,0 +1,1801 @@
+candidate_id,rank,job_id,missing_credentials,missing_credential_ids,missing_skills,n_missing_skills
+C0001,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0001,2,DPSA34-233,,[],,0
+C0001,3,DPSA29-232,,[],public finance; database; financial management; capacity building,4
+C0002,1,DPSA28-119b,,[],,0
+C0002,2,DPSA36-244,,[],communication; social sciences; knowledge management; Computer Assisted Language Learning,4
+C0002,3,DPSA28-119a,,[],,0
+C0003,1,DPSA28-142d,,[],report facts,1
+C0003,2,DPSA28-144b,,[],plan,1
+C0003,3,DPSA28-151a,,[],public administration; document management,2
+C0004,1,PNET-0033,,[],join metals; operate welding equipment; mechanical systems,3
+C0004,2,PNET-0042,,[],ICT system integration; robotics,2
+C0004,3,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0005,1,DPSA34-243,,[],communication; statistics,2
+C0005,2,DPSA36-261c,National Diploma / NQF 6 qualification or Grade 12 / Matric (National Senior Certificate),"[[""DIPLOMA"", ""GR12""]]",communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0005,3,DPSA28-144e,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",plan,1
+C0006,1,PNET-0058,,[],collect samples; mathematics; accounting,3
+C0006,2,PNET-0072,,[],collect samples; remove dust; mathematics; ventilation systems; physics; report facts,6
+C0006,3,PNET-0065,,[],collect samples; report facts,2
+C0007,1,DPSA32-270,,[],financial management; conflict management; public administration; logistics,4
+C0007,2,DPSA36-264,Grade 12 / Matric (National Senior Certificate),"[[""GR12""]]",communication; financial management; statistics; report facts; have computer literacy,5
+C0007,3,PNET-0035,,[],,0
+C0008,1,DPSA28-142d,,[],report facts,1
+C0008,2,DPSA28-151a,,[],public administration; document management,2
+C0008,3,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0009,1,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0009,2,DPSA30-197a,,[],criminology; customer service; social sciences; report facts; public administration,5
+C0009,3,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0010,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0010,2,DPSA36-260,Valid driver's licence (any code),"[[""LIC_ANY""]]",database; financial management; capacity building; logistics,4
+C0010,3,PNET-0054,,[],customer service; control of expenses,2
+C0011,1,DPSA36-229,,[],,0
+C0011,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0011,3,DPSA31-234b,Valid driver's licence (any code),"[[""LIC_ANY""]]",cyber security; report facts; computer technology,3
+C0012,1,DPSA28-144e,,[],plan,1
+C0012,2,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0012,3,DPSA28-125,,[],,0
+C0013,1,DPSA31-231,,[],project commissioning; project management; market research; market analysis; report facts,5
+C0013,2,DPSA31-227,,[],communication; entrepreneurship; have computer literacy,3
+C0013,3,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0014,1,DPSA28-144e,,[],plan,1
+C0014,2,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0014,3,DPSA28-125,,[],,0
+C0015,1,DPSA36-225,,[],,0
+C0015,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0015,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0016,1,DPSA38-500,,[],electrical engineering,1
+C0016,2,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0016,3,DPSA31-237,,[],communication; office administration,2
+C0017,1,DPSA30-167,,[],financial management; have computer literacy; accounting,3
+C0017,2,DPSA30-182,,[],health and safety in the workplace; journalism; supervise crew; supervise staff,4
+C0017,3,DPSA28-138a,,[],financial management; report facts; accounting,3
+C0018,1,PNET-0075,,[],quality assurance procedures; electricity principles; have computer literacy; manufacturing plant equipment,4
+C0018,2,DPSA36-271,,[],communication; report facts,2
+C0018,3,DPSA36-270d,,[],communication; infection control,2
+C0019,1,DPSA31-237,,[],communication; office administration,2
+C0019,2,DPSA34-240,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; database; economics; analyse supply chain strategies; plan; supply chain management,6
+C0019,3,PNET-0054,,[],customer service; control of expenses,2
+C0020,1,DPSA38-501b,,[],surgery; neonatology; paediatrics; supervise staff; general surgery,5
+C0020,2,DPSA36-244,,[],communication; social sciences; knowledge management; Computer Assisted Language Learning,4
+C0020,3,DPSA28-144d,,[],plan,1
+C0021,1,PNET-0063,,[],health and safety in the workplace,1
+C0021,2,DPSA36-270d,,[],communication; infection control,2
+C0021,3,DPSA36-271,,[],communication; report facts,2
+C0022,1,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0022,2,DPSA34-233,,[],,0
+C0022,3,DPSA28-142d,,[],report facts,1
+C0023,1,DPSA32-261,Valid driver's licence (any code),"[[""LIC_ANY""]]",project commissioning; physics; project management; statistics; write technical reports; report facts,6
+C0023,2,PNET-0016,,[],troubleshoot; root cause analysis; lead others,3
+C0023,3,DPSA38-500,,[],electrical engineering,1
+C0024,1,DPSA31-237,,[],communication; office administration,2
+C0024,2,DPSA36-270d,,[],communication; infection control,2
+C0024,3,PNET-0040,,[],communication; manage quality; packaging engineering; plan,4
+C0025,1,DPSA28-153a,,[],nutrition; logistics,2
+C0025,2,DPSA28-142c,,[],report facts,1
+C0025,3,DPSA28-154b,,[],financial management; process payments,2
+C0026,1,DPSA31-237,,[],communication; office administration,2
+C0026,2,DPSA36-269,,[],patents; communication; knowledge management; transfer patients; have computer literacy,5
+C0026,3,DPSA38-500,,[],electrical engineering,1
+C0027,1,DPSA31-221,,[],quality assurance procedures; waste management; financial management; physics; environmental legislation; manage resources; manage air quality; oil rig legislation,8
+C0027,2,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; environmental legislation; project management; environmental engineering; oil rig legislation,8
+C0027,3,DPSA32-248a,,[],financial management,1
+C0028,1,DPSA29-246,,[],communication; financial management; Computer Assisted Language Learning; logistics,4
+C0028,2,DPSA36-226,,[],,0
+C0028,3,DPSA36-238,,[],electrical engineering; civil engineering,2
+C0029,1,DPSA36-261b,,[],communication; project commissioning; financial management; project management; sociology; demography; assist community,7
+C0029,2,DPSA28-144c,,[],plan,1
+C0029,3,DPSA36-261c,,[],communication; project commissioning; financial management; project management; sociology; demography; assist community,7
+C0030,1,PNET-0042,,[],ICT system integration; robotics,2
+C0030,2,PNET-0033,,[],join metals; operate welding equipment; troubleshoot; mechanical systems,4
+C0030,3,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0031,1,DPSA38-519c,,[],quality standards; medical oncology; psychiatry,3
+C0031,2,DPSA36-269,,[],patents; communication; knowledge management; transfer patients,4
+C0031,3,DPSA38-507b,,[],Computer Assisted Language Learning,1
+C0032,1,DPSA31-237,,[],communication; office administration,2
+C0032,2,DPSA36-229,,[],,0
+C0032,3,DPSA31-242,,[],communication; conflict management; manage a team; have computer literacy; make reservations,5
+C0033,1,DPSA28-142b,,[],report facts,1
+C0033,2,DPSA28-144c,,[],plan,1
+C0033,3,DPSA28-152b,,[],packaging engineering; logistics,2
+C0034,1,DPSA30-177,,[],JavaScript; computer science; cyber security,3
+C0034,2,DPSA28-153a,,[],nutrition; logistics,2
+C0034,3,DPSA28-134,,[],project commissioning; project management; computer science; Source (digital game creation systems),4
+C0035,1,DPSA32-268,,[],manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0035,2,DPSA34-243,,[],communication; statistics,2
+C0035,3,DPSA28-144e,,[],plan,1
+C0036,1,DPSA38-500,,[],electrical engineering,1
+C0036,2,DPSA31-237,,[],communication; office administration,2
+C0036,3,DPSA36-266,,[],communication; have computer literacy,2
+C0037,1,PNET-0062,Code EB,"[[""LIC_EB""]]",risk management; plan,2
+C0037,2,PNET-0077,Bachelor's degree / NQF 7 or National Diploma / NQF 6 qualification,"[[""DEGREE"", ""DIPLOMA""]]",use earth sciences tools; surveying; explosives; mining engineering; risk management; plan,6
+C0037,3,DPSA36-266,,[],communication; have computer literacy,2
+C0038,1,DPSA36-227,,[],,0
+C0038,2,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0038,3,DPSA36-239,,[],civil engineering,1
+C0039,1,DPSA36-229,,[],,0
+C0039,2,DPSA36-235,,[],civil engineering,1
+C0039,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0040,1,DPSA36-229,,[],,0
+C0040,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0040,3,DPSA36-235,,[],civil engineering,1
+C0041,1,DPSA28-142c,,[],report facts,1
+C0041,2,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0041,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0042,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0042,2,DPSA28-142a,,[],report facts,1
+C0042,3,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0043,1,DPSA36-225,,[],,0
+C0043,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0043,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0044,1,PNET-0075,,[],quality assurance procedures; electricity principles; have computer literacy; manufacturing plant equipment,4
+C0044,2,PNET-0071,Valid driver's licence (any code),"[[""LIC_ANY""]]",manufacturing plant equipment; logistics,2
+C0044,3,PNET-0033,,[],join metals; operate welding equipment; mechanical systems,3
+C0045,1,DPSA32-255,,[],surveying; project commissioning; financial management; project management; quantity surveying,5
+C0045,2,DPSA32-265,,[],surveying; project commissioning; project management; quantity surveying; report facts,5
+C0045,3,DPSA32-253,,[],project commissioning; maintenance operations; project management; asset management; provide technical expertise,5
+C0046,1,DPSA36-270d,,[],communication; infection control,2
+C0046,2,DPSA36-271,,[],communication; report facts,2
+C0046,3,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0047,1,DPSA31-237,,[],communication; office administration,2
+C0047,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0047,3,DPSA29-245,,[],financial management; logistics,2
+C0048,1,PNET-0001,,[],report facts,1
+C0048,2,PNET-0005,,[],report facts,1
+C0048,3,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts; first aid; emergency medicine,3
+C0049,1,DPSA38-500,,[],electrical engineering,1
+C0049,2,DPSA31-237,,[],communication; office administration,2
+C0049,3,DPSA36-266,,[],communication; have computer literacy,2
+C0050,1,DPSA28-151a,,[],public administration; document management,2
+C0050,2,DPSA28-142d,,[],report facts,1
+C0050,3,DPSA28-152a,,[],packaging engineering; logistics,2
+C0051,1,PNET-0022,,[],health and safety in the workplace; schedule production; English; food science,4
+C0051,2,DPSA29-242,,[],financial management; internal auditing; report facts; accounting,4
+C0051,3,DPSA29-241,,[],financial management; internal auditing; report facts; accounting,4
+C0052,1,DPSA28-142c,,[],report facts,1
+C0052,2,DPSA28-153a,,[],nutrition; logistics,2
+C0052,3,DPSA28-141,,[],register mail; document management,2
+C0053,1,DPSA36-270b,,[],communication; infection control,2
+C0053,2,DPSA31-243,,[],cleaning products; handle chemicals; perform cleaning duties; report facts; cleaning techniques; make reservations,6
+C0053,3,DPSA31-233,National Diploma / NQF 6 qualification or Grade 12 / Matric (National Senior Certificate) | Valid driver's licence (any code),"[[""DIPLOMA"", ""GR12""], [""LIC_ANY""]]",project commissioning; project management; statistics; report facts; oil rig legislation,5
+C0054,1,DPSA36-255,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0054,2,DPSA38-499,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""PS_NYUKELA""]]",,0
+C0054,3,DPSA36-264,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial management; statistics; report facts; have computer literacy,5
+C0055,1,DPSA29-240,,[],communication; financial management; capacity building,3
+C0055,2,DPSA32-249,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",financial management,1
+C0055,3,DPSA28-142b,,[],report facts,1
+C0056,1,DPSA30-177,,[],JavaScript; ASP.NET; computer science,3
+C0056,2,DPSA31-225,,[],communication; project commissioning; project management; computer technology,4
+C0056,3,DPSA31-234a,,[],troubleshoot; report facts; computer technology,3
+C0057,1,DPSA36-266,,[],communication; have computer literacy,2
+C0057,2,DPSA31-237,,[],communication; office administration,2
+C0057,3,DPSA34-240,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0058,1,DPSA31-237,,[],communication; office administration,2
+C0058,2,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0058,3,DPSA38-500,,[],electrical engineering,1
+C0059,1,DPSA31-240,,[],communication; law enforcement; make reservations,3
+C0059,2,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0059,3,DPSA31-231,,[],project commissioning; project management; market research; market analysis; report facts,5
+C0060,1,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0060,2,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0060,3,DPSA28-145a,,[],risk management; manage closed-circuit television system; have computer literacy,3
+C0061,1,DPSA32-269,Valid driver's licence (any code),"[[""LIC_ANY""]]",analyse supply chain strategies; asset management; logistics; supply chain management,4
+C0061,2,DPSA31-233,Valid driver's licence (any code),"[[""LIC_ANY""]]",project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0061,3,DPSA30-198b,Valid driver's licence (any code),"[[""LIC_ANY""]]",criminology; social sciences; provide information; report facts; public administration,5
+C0062,1,DPSA36-270b,,[],communication; infection control,2
+C0062,2,DPSA36-270c,,[],communication; infection control,2
+C0062,3,DPSA36-270d,,[],communication; infection control,2
+C0063,1,DPSA34-233,,[],,0
+C0063,2,DPSA32-270,,[],financial management; conflict management; public administration; logistics,4
+C0063,3,DPSA29-240,,[],communication; financial management; capacity building,3
+C0064,1,DPSA36-266,,[],communication; have computer literacy,2
+C0064,2,DPSA31-237,,[],communication; office administration,2
+C0064,3,DPSA36-270c,,[],communication; infection control,2
+C0065,1,DPSA36-261b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; sociology; demography; assist community,7
+C0065,2,DPSA31-220e,SACSSP registration (social work),"[[""REG_SACSSP""]]",maintain freelance database; communication; conflict management; report facts,4
+C0065,3,DPSA36-256,SACSSP registration (social work) | Valid driver's licence (any code),"[[""REG_SACSSP""], [""LIC_ANY""]]",advise others; communication; morality; report facts; ethics,5
+C0066,1,DPSA36-245,,[],communication; project commissioning; financial management; project management; sociology; conflict management; demography; plan,8
+C0066,2,DPSA36-261e,,[],communication; project commissioning; financial management; project management; sociology; demography; assist community,7
+C0066,3,DPSA36-254b,,[],communication; manage staff; supervise crew; supervise staff; report facts; human resource management,6
+C0067,1,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; environmental legislation; project management; environmental engineering; oil rig legislation,8
+C0067,2,DPSA32-261,,[],project commissioning; physics; project management; statistics; write technical reports; report facts,6
+C0067,3,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0068,1,DPSA28-142c,,[],report facts,1
+C0068,2,DPSA28-153a,,[],nutrition; logistics,2
+C0068,3,DPSA30-187,,[],financial management; have computer literacy,2
+C0069,1,DPSA34-236,,[],public administration; human resource management,2
+C0069,2,DPSA38-521c,,[],public administration,1
+C0069,3,DPSA38-521b,,[],public administration,1
+C0070,1,PNET-0076,,[],join metals; operate welding equipment; identify training needs; mechanical systems,4
+C0070,2,PNET-0043,,[],communication; health and safety in the workplace; plan,3
+C0070,3,DPSA34-241,,[],health and safety in the workplace; write technical reports; report facts,3
+C0071,1,DPSA36-229,,[],,0
+C0071,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0071,3,DPSA36-235,,[],civil engineering,1
+C0072,1,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0072,2,DPSA28-153a,,[],nutrition; logistics,2
+C0072,3,DPSA28-142c,,[],report facts,1
+C0073,1,DPSA32-249,,[],financial management,1
+C0073,2,DPSA32-248a,,[],financial management,1
+C0073,3,DPSA30-164,,[],social sciences; public administration,2
+C0074,1,DPSA31-220a,,[],maintain freelance database; communication; conflict management; report facts; have computer literacy,5
+C0074,2,DPSA28-120a,,[],report facts; capacity building,2
+C0074,3,DPSA36-267,,[],morality; financial capability; ethics,3
+C0075,1,DPSA36-229,,[],,0
+C0075,2,DPSA36-235,,[],civil engineering,1
+C0075,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0076,1,DPSA34-233,,[],,0
+C0076,2,DPSA28-142c,,[],report facts,1
+C0076,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0077,1,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0077,2,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0077,3,DPSA28-142d,,[],report facts,1
+C0078,1,DPSA30-198b,,[],social sciences; provide information; report facts; public administration,4
+C0078,2,DPSA30-197b,,[],customer service; social sciences; report facts; public administration,4
+C0078,3,DPSA28-142a,,[],report facts,1
+C0079,1,DPSA34-233,,[],,0
+C0079,2,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0079,3,DPSA32-248b,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",financial management,1
+C0080,1,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0080,2,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0080,3,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0081,1,DPSA36-270b,,[],communication; infection control,2
+C0081,2,DPSA31-244,,[],cleaning products; iron textiles; maintain linen operation; make reservations,4
+C0081,3,DPSA31-243,,[],cleaning products; handle chemicals; report facts; cleaning techniques; make reservations,5
+C0082,1,DPSA38-519b,,[],quality standards; medical oncology; psychiatry,3
+C0082,2,DPSA38-516b,,[],primary care,1
+C0082,3,DPSA38-519a,,[],quality standards; medical oncology; psychiatry,3
+C0083,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0083,2,DPSA38-500,,[],electrical engineering,1
+C0083,3,DPSA36-266,,[],communication; have computer literacy,2
+C0084,1,DPSA36-225,,[],,0
+C0084,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0084,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0085,1,DPSA30-177,,[],JavaScript; ASP.NET; cyber security,3
+C0085,2,DPSA28-134,,[],project commissioning; project management; Source (digital game creation systems),3
+C0085,3,DPSA28-133,,[],ICT safety; cyber security; ICT infrastructure; distributed directory information services,4
+C0086,1,DPSA36-270c,,[],communication; infection control,2
+C0086,2,DPSA36-270a,,[],communication; infection control,2
+C0086,3,DPSA29-247,,[],,0
+C0087,1,DPSA31-218,,[],solve technical problems; database; lead others; computer science; report facts,5
+C0087,2,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0087,3,DPSA28-134,,[],project commissioning; project management; computer science; Source (digital game creation systems),4
+C0088,1,DPSA36-227,,[],,0
+C0088,2,DPSA36-233,,[],civil engineering; mechanical engineering,2
+C0088,3,DPSA36-270d,,[],communication; infection control,2
+C0089,1,DPSA38-516d,,[],primary care,1
+C0089,2,DPSA38-519c,SANC registration (nursing),"[[""REG_SANC""]]",quality standards; medical oncology,2
+C0089,3,DPSA38-516e,,[],primary care,1
+C0090,1,DPSA32-270,,[],financial management; conflict management; public administration; logistics,4
+C0090,2,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0090,3,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0091,1,DPSA28-142d,,[],report facts,1
+C0091,2,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0091,3,DPSA28-152a,,[],packaging engineering; logistics,2
+C0092,1,DPSA38-519c,,[],quality standards; medical oncology; psychiatry,3
+C0092,2,DPSA38-519b,,[],quality standards; medical oncology; psychiatry,3
+C0092,3,DPSA38-515,,[],Computer Assisted Language Learning,1
+C0093,1,PNET-0003,,[],customer service; communication,2
+C0093,2,DPSA31-237,,[],communication; office administration,2
+C0093,3,DPSA38-500,,[],electrical engineering,1
+C0094,1,DPSA31-218,,[],solve technical problems; database; lead others; computer science; report facts,5
+C0094,2,DPSA29-234,,[],enterprise risk management; project commissioning; risk management; project management,4
+C0094,3,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0095,1,DPSA28-136a,,[],safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0095,2,DPSA28-136d,,[],safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0095,3,DPSA28-136c,,[],safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0096,1,DPSA38-526b,,[],,0
+C0096,2,DPSA38-501b,,[],surgery; neonatology; paediatrics; supervise staff; general surgery,5
+C0096,3,DPSA38-526a,,[],,0
+C0097,1,DPSA34-239,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial management; risk management; security engineering; cyber security; conflict management,6
+C0097,2,DPSA36-225,,[],,0
+C0097,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0098,1,DPSA34-242,,[],write technical reports; report facts,2
+C0098,2,DPSA34-241,,[],health and safety in the workplace; write technical reports; report facts,3
+C0098,3,DPSA32-267,,[],carpentry; project commissioning; project management; report facts; think creatively,5
+C0099,1,DPSA28-142c,,[],report facts,1
+C0099,2,DPSA28-153a,,[],nutrition; logistics,2
+C0099,3,DPSA30-189,,[],communication; report facts; have computer literacy,3
+C0100,1,DPSA36-263,,[],customer service; communication; receive goods; have computer literacy; document management; accounting,6
+C0100,2,DPSA32-260,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial statements; asset management; logistics; accounting,5
+C0100,3,DPSA36-257a,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; project management; process payments; report facts; accounting,6
+C0101,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0101,2,DPSA31-237,,[],communication; office administration,2
+C0101,3,PNET-0023,,[],assertiveness,1
+C0102,1,DPSA36-226,,[],,0
+C0102,2,DPSA36-238,,[],electrical engineering; civil engineering,2
+C0102,3,DPSA36-232,,[],civil engineering; mechanical engineering,2
+C0103,1,DPSA31-237,,[],communication; office administration,2
+C0103,2,DPSA36-225,,[],,0
+C0103,3,DPSA36-224,,[],geographic information systems,1
+C0104,1,DPSA28-142c,,[],report facts,1
+C0104,2,DPSA28-142d,,[],report facts,1
+C0104,3,DPSA30-189,,[],communication; report facts; have computer literacy,3
+C0105,1,DPSA36-270a,,[],communication; infection control,2
+C0105,2,DPSA31-237,,[],communication; office administration,2
+C0105,3,DPSA38-500,,[],electrical engineering,1
+C0106,1,DPSA28-142b,,[],report facts,1
+C0106,2,DPSA28-144c,,[],plan,1
+C0106,3,DPSA28-152b,,[],packaging engineering; logistics,2
+C0107,1,DPSA28-142c,,[],report facts,1
+C0107,2,DPSA30-187,,[],financial management,1
+C0107,3,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0108,1,DPSA38-500,,[],electrical engineering,1
+C0108,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0108,3,DPSA36-229,,[],,0
+C0109,1,DPSA28-142a,,[],report facts,1
+C0109,2,DPSA28-153c,,[],nutrition; logistics,2
+C0109,3,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0110,1,DPSA29-247,,[],,0
+C0110,2,DPSA36-270d,,[],communication; infection control,2
+C0110,3,DPSA36-270c,,[],communication; infection control,2
+C0111,1,DPSA32-264,,[],project commissioning; financial management; project management,3
+C0111,2,DPSA32-254,,[],apply change management; project commissioning; financial management; project management; think creatively; provide technical expertise,6
+C0111,3,DPSA32-253,,[],project commissioning; maintenance operations; project management; asset management; provide technical expertise,5
+C0112,1,DPSA28-142c,,[],report facts,1
+C0112,2,DPSA31-220a,,[],maintain freelance database; communication; conflict management; report facts; have computer literacy,5
+C0112,3,DPSA28-120a,,[],report facts; capacity building,2
+C0113,1,DPSA36-229,,[],,0
+C0113,2,DPSA36-235,,[],civil engineering,1
+C0113,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0114,1,DPSA29-247,,[],,0
+C0114,2,DPSA36-271,,[],communication; report facts,2
+C0114,3,DPSA36-270b,,[],communication; infection control,2
+C0115,1,DPSA28-144e,,[],plan,1
+C0115,2,DPSA28-125,,[],,0
+C0115,3,DPSA30-203,,[],acoustics; disability care; morality; ethics; sign language,5
+C0116,1,DPSA28-142d,,[],report facts,1
+C0116,2,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0116,3,DPSA28-144b,,[],plan,1
+C0117,1,DPSA28-124a,,[],manage supplies; financial management; analyse supply chain strategies; asset management; supply chain management,5
+C0117,2,DPSA28-142d,,[],report facts,1
+C0117,3,DPSA28-144b,,[],plan,1
+C0118,1,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0118,2,DPSA38-527c,,[],supervise staff; public administration; human resource management,3
+C0118,3,DPSA29-245,,[],financial management; logistics,2
+C0119,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0119,2,DPSA31-237,,[],communication; office administration,2
+C0119,3,DPSA36-266,,[],communication; have computer literacy,2
+C0120,1,DPSA28-142a,,[],report facts,1
+C0120,2,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0120,3,DPSA28-144d,,[],plan,1
+C0121,1,DPSA36-270d,,[],communication; infection control,2
+C0121,2,DPSA36-271,,[],communication; report facts,2
+C0121,3,DPSA31-243,,[],handle chemicals; perform cleaning duties; report facts; cleaning techniques; make reservations,5
+C0122,1,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0122,2,DPSA36-257a,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0122,3,DPSA36-254b,,[],communication; manage staff; supervise crew; supervise staff; report facts; have computer literacy; human resource management,7
+C0123,1,DPSA34-243,,[],communication; statistics,2
+C0123,2,PNET-0035,,[],,0
+C0123,3,DPSA36-260,National Diploma / NQF 6 qualification or Grade 12 / Matric (National Senior Certificate),"[[""DIPLOMA"", ""GR12""]]",database; financial management; perform procurement processes; capacity building; logistics,5
+C0124,1,PNET-0031,,[],customer service; lead a team; lead others,3
+C0124,2,PNET-0043,,[],communication; health and safety in the workplace; plan,3
+C0124,3,DPSA36-254a,,[],communication; supervise crew; supervise staff; report facts; have computer literacy; human resource management,6
+C0125,1,DPSA31-218,,[],solve technical problems; database; lead others; computer science; report facts,5
+C0125,2,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0125,3,DPSA28-134,,[],project commissioning; project management; computer science; Source (digital game creation systems),4
+C0126,1,DPSA30-198b,,[],criminology; provide information; report facts; public administration,4
+C0126,2,DPSA36-261a,,[],communication; project commissioning; financial management; project management; sociology; demography; have computer literacy; assist community,8
+C0126,3,DPSA28-142a,,[],report facts,1
+C0127,1,DPSA38-500,,[],electrical engineering,1
+C0127,2,DPSA31-237,,[],communication; office administration,2
+C0127,3,DPSA36-266,,[],communication; have computer literacy,2
+C0128,1,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0128,2,DPSA30-192c,,[],economics; conflict management; issue permits; have computer literacy; logistics,5
+C0128,3,DPSA30-197b,,[],criminology; customer service; social sciences; report facts; public administration,5
+C0129,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0129,2,DPSA36-229,,[],,0
+C0129,3,DPSA36-261a,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; assist community,8
+C0130,1,DPSA36-247,,[],communication; conflict management; report facts,3
+C0130,2,DPSA36-254b,,[],communication; manage staff; supervise crew; supervise staff; report facts; have computer literacy,6
+C0130,3,DPSA28-142c,,[],report facts,1
+C0131,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0131,2,DPSA36-229,,[],,0
+C0131,3,DPSA28-142a,,[],report facts,1
+C0132,1,DPSA28-142b,,[],report facts,1
+C0132,2,DPSA28-144c,,[],plan,1
+C0132,3,DPSA28-152b,,[],packaging engineering; logistics,2
+C0133,1,DPSA31-237,,[],communication; office administration,2
+C0133,2,DPSA36-266,,[],communication; have computer literacy,2
+C0133,3,DPSA36-259,Valid driver's licence (any code),"[[""LIC_ANY""]]",customer service; communication; report facts; public administration; logistics,5
+C0134,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0134,2,DPSA36-260,Valid driver's licence (any code),"[[""LIC_ANY""]]",database; financial management; capacity building; logistics,4
+C0134,3,DPSA32-268,Bachelor's degree / NQF 7 | Valid driver's licence (any code),"[[""DEGREE""], [""LIC_ANY""]]",manage supplies; database; financial management; analyse supply chain strategies; plan; supply chain management,6
+C0135,1,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0135,2,DPSA30-202,,[],have computer literacy; public administration,2
+C0135,3,DPSA30-194,,[],criminology; social sciences; report facts; policy analysis; public administration,5
+C0136,1,DPSA36-240,,[],,0
+C0136,2,DPSA36-228,,[],property law,1
+C0136,3,DPSA36-234,,[],civil engineering,1
+C0137,1,DPSA36-256,SACSSP registration (social work),"[[""REG_SACSSP""]]",advise others; communication; morality; report facts; ethics; have computer literacy,6
+C0137,2,DPSA28-120c,SACSSP registration (social work),"[[""REG_SACSSP""]]",report facts; capacity building,2
+C0137,3,DPSA29-240,,[],communication; financial management; capacity building,3
+C0138,1,DPSA36-270d,,[],communication; infection control,2
+C0138,2,DPSA36-271,,[],communication; report facts,2
+C0138,3,DPSA31-244,,[],cleaning products; iron textiles; maintain linen operation; make reservations,4
+C0139,1,DPSA29-246,,[],communication; financial management; Computer Assisted Language Learning; logistics,4
+C0139,2,PNET-0069,,[],communication; database; office administration; talent management strategies,4
+C0139,3,DPSA36-226,,[],,0
+C0140,1,DPSA32-268,,[],manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0140,2,DPSA36-265,,[],customer service; communication; report facts,3
+C0140,3,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; assist community,8
+C0141,1,DPSA36-225,,[],,0
+C0141,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0141,3,DPSA36-224,,[],geographic information systems,1
+C0142,1,DPSA28-142b,,[],report facts,1
+C0142,2,DPSA28-152b,,[],packaging engineering; logistics,2
+C0142,3,DPSA28-144c,,[],plan,1
+C0143,1,DPSA34-233,,[],,0
+C0143,2,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0143,3,DPSA29-240,,[],communication; financial management; capacity building,3
+C0144,1,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0144,2,DPSA36-246,,[],customer service; communication; health and safety in the workplace; office administration; coordinate catering; conflict management; report facts; public administration,11
+C0144,3,DPSA30-189,,[],communication; report facts; have computer literacy,3
+C0145,1,DPSA38-497,,[],community medicine; manage resources; public health; primary care,4
+C0145,2,DPSA36-228,,[],property law,1
+C0145,3,DPSA38-499,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",,0
+C0146,1,DPSA31-237,,[],communication; office administration,2
+C0146,2,DPSA38-500,,[],electrical engineering,1
+C0146,3,DPSA36-266,,[],communication; have computer literacy,2
+C0147,1,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0147,2,DPSA36-227,,[],,0
+C0147,3,DPSA36-239,,[],civil engineering,1
+C0148,1,DPSA36-225,,[],,0
+C0148,2,DPSA36-227,,[],,0
+C0148,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0149,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0149,2,DPSA31-237,,[],communication; office administration,2
+C0149,3,DPSA36-266,,[],communication; have computer literacy,2
+C0150,1,DPSA36-229,,[],,0
+C0150,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0150,3,DPSA36-235,,[],civil engineering,1
+C0151,1,DPSA36-270c,,[],communication; infection control,2
+C0151,2,DPSA38-499,Bachelor's degree / NQF 7 | Grade 12 / Matric (National Senior Certificate) | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""GR12""], [""PS_NYUKELA""]]",,0
+C0151,3,DPSA32-249,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate | Valid driver's licence (any code),"[[""DEGREE""], [""PS_NYUKELA""], [""LIC_ANY""]]",financial management,1
+C0152,1,DPSA31-231,,[],project commissioning; project management; market research; report facts,4
+C0152,2,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0152,3,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0153,1,DPSA38-519c,,[],quality standards; medical oncology; psychiatry,3
+C0153,2,DPSA38-519b,,[],quality standards; medical oncology; psychiatry,3
+C0153,3,DPSA38-519d,,[],quality standards; medical oncology; psychiatry,3
+C0154,1,DPSA38-519c,,[],quality standards; medical oncology; psychiatry,3
+C0154,2,DPSA38-519d,,[],quality standards; medical oncology; psychiatry,3
+C0154,3,DPSA38-519e,,[],quality standards; medical oncology; psychiatry,3
+C0155,1,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0155,2,DPSA38-512,,[],manage contracts; analyse supply chain strategies; logistics; accounting; supply chain management,5
+C0155,3,DPSA36-225,,[],,0
+C0156,1,PNET-0006,,[],report facts; emergency medicine,2
+C0156,2,PNET-0001,,[],report facts,1
+C0156,3,PNET-0005,,[],report facts,1
+C0157,1,DPSA36-225,,[],,0
+C0157,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0157,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0158,1,DPSA38-518a,,[],,0
+C0158,2,DPSA38-519a,,[],quality standards; medical oncology; psychiatry,3
+C0158,3,DPSA38-516d,,[],primary care,1
+C0159,1,DPSA38-501b,,[],surgery; neonatology; paediatrics; supervise staff; general surgery,5
+C0159,2,DPSA28-118,,[],audiology; assistive instruments; report facts,3
+C0159,3,DPSA38-526a,,[],,0
+C0160,1,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan,6
+C0160,2,DPSA29-242,,[],financial management; internal auditing; report facts; accounting,4
+C0160,3,DPSA29-241,,[],financial management; internal auditing; report facts; accounting,4
+C0161,1,DPSA28-142d,,[],report facts,1
+C0161,2,DPSA28-144b,,[],plan,1
+C0161,3,DPSA28-123,,[],financial forecasting; financial management; accounting,3
+C0162,1,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0162,2,DPSA36-225,,[],,0
+C0162,3,DPSA36-266,,[],communication; have computer literacy,2
+C0163,1,DPSA36-247,,[],communication; conflict management; report facts,3
+C0163,2,DPSA36-254a,,[],communication; manage staff; supervise crew; supervise staff; report facts; have computer literacy,6
+C0163,3,DPSA31-229,,[],manage resources; public administration,2
+C0164,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0164,2,DPSA28-153a,,[],nutrition; logistics,2
+C0164,3,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0165,1,DPSA38-523c,,[],,0
+C0165,2,DPSA38-501a,,[],surgery; neonatology; paediatrics; supervise staff; general surgery,5
+C0165,3,DPSA38-525b,,[],statistics,1
+C0166,1,DPSA28-144c,,[],plan,1
+C0166,2,DPSA28-142b,,[],report facts,1
+C0166,3,DPSA28-143a,,[],database; project commissioning; project management; public administration,4
+C0167,1,DPSA36-254b,,[],communication; manage staff; supervise crew; supervise staff; report facts; have computer literacy; human resource management,7
+C0167,2,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0167,3,DPSA30-197a,,[],criminology; customer service; social sciences; report facts; public administration,5
+C0168,1,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0168,2,DPSA31-220d,SACSSP registration (social work),"[[""REG_SACSSP""]]",maintain freelance database; communication; conflict management; report facts; have computer literacy,5
+C0168,3,DPSA36-227,,[],,0
+C0169,1,DPSA32-257,Valid driver's licence (any code),"[[""LIC_ANY""]]",financial management; document management,2
+C0169,2,DPSA34-236,,[],public administration; human resource management,2
+C0169,3,DPSA38-527c,,[],supervise staff; public administration; human resource management,3
+C0170,1,DPSA38-500,,[],electrical engineering,1
+C0170,2,DPSA31-237,,[],communication; office administration,2
+C0170,3,DPSA30-182,Valid driver's licence (any code),"[[""LIC_ANY""]]",health and safety in the workplace; journalism; supervise crew,3
+C0171,1,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0171,2,DPSA38-522b,,[],quality standards,1
+C0171,3,DPSA36-257b,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0172,1,DPSA38-497,Bachelor's degree / NQF 7,"[[""DEGREE""]]",community medicine; manage resources; public health; primary care,4
+C0172,2,DPSA38-499,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""PS_NYUKELA""]]",,0
+C0172,3,DPSA36-264,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial management; statistics; report facts; have computer literacy,5
+C0173,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0173,2,DPSA34-233,,[],,0
+C0173,3,DPSA29-237,,[],project commissioning; project management; civil engineering; manage contracts; financial analysis; monitor swimming-pool infrastructure; public administration,7
+C0174,1,DPSA28-144b,,[],plan,1
+C0174,2,DPSA28-142d,,[],report facts,1
+C0174,3,DPSA28-152a,,[],packaging engineering; logistics,2
+C0175,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0175,2,DPSA38-496,,[],human resource management,1
+C0175,3,DPSA28-113,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",,0
+C0176,1,DPSA36-254a,,[],communication; supervise crew; supervise staff; report facts; have computer literacy; human resource management,6
+C0176,2,DPSA30-182,,[],health and safety in the workplace; journalism; supervise crew; supervise staff,4
+C0176,3,DPSA30-166,,[],project commissioning; social sciences; project management; strategic planning; supervise crew; supervise staff; report facts; policy analysis,11
+C0177,1,DPSA38-516a,,[],primary care,1
+C0177,2,DPSA31-237,,[],communication; office administration,2
+C0177,3,DPSA36-259,Valid driver's licence (any code),"[[""LIC_ANY""]]",customer service; communication; report facts; public administration; logistics,5
+C0178,1,DPSA38-516a,,[],primary care,1
+C0178,2,DPSA31-237,,[],communication; office administration,2
+C0178,3,DPSA36-266,,[],communication; have computer literacy,2
+C0179,1,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0179,2,DPSA36-255,,[],manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0179,3,DPSA30-192b,,[],economics; conflict management; issue permits; have computer literacy; logistics,5
+C0180,1,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0180,2,DPSA30-199,,[],mechanical engineering; have computer literacy,2
+C0180,3,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0181,1,DPSA36-225,,[],,0
+C0181,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0181,3,DPSA36-227,,[],,0
+C0182,1,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0182,2,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0182,3,DPSA30-192a,,[],economics; conflict management; issue permits; have computer literacy; logistics,5
+C0183,1,DPSA38-502,,[],lead others; Computer Assisted Language Learning,2
+C0183,2,DPSA38-526a,,[],,0
+C0183,3,DPSA38-503,,[],lead others; Computer Assisted Language Learning,2
+C0184,1,PNET-0075,,[],quality assurance procedures; electricity principles; have computer literacy; manufacturing plant equipment,4
+C0184,2,PNET-0072,,[],collect samples; remove dust; mathematics; ventilation systems; physics; report facts,6
+C0184,3,PNET-0076,Code B (old Code 08),"[[""LIC_B""]]",operate welding equipment; identify training needs; mechanical systems,3
+C0185,1,DPSA29-235,,[],labour legislation; supervise crew; supervise staff; report facts; public administration; plan,6
+C0185,2,DPSA28-142c,,[],report facts,1
+C0185,3,DPSA36-254a,,[],communication; supervise crew; supervise staff; report facts; have computer literacy; human resource management,6
+C0186,1,PNET-0001,EMS qualification (BLS / ILS / ALS),"[[""EMS_QUAL""]]",report facts,1
+C0186,2,PNET-0006,National Diploma / NQF 6 qualification | EMS qualification (BLS / ILS / ALS),"[[""DIPLOMA""], [""EMS_QUAL""]]",report facts; emergency medicine,2
+C0186,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0187,1,DPSA34-243,,[],communication,1
+C0187,2,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0187,3,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0188,1,DPSA38-497,,[],community medicine; manage resources; public health; primary care,4
+C0188,2,DPSA36-228,,[],property law,1
+C0188,3,DPSA36-240,,[],,0
+C0189,1,DPSA36-229,,[],,0
+C0189,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0189,3,PNET-0012,,[],communication; troubleshoot; project commissioning; project management; lead others; customer relationship management; marketing principles,7
+C0190,1,DPSA30-177,,[],ASP.NET; computer science; cyber security,3
+C0190,2,DPSA36-252,,[],customer service; communication; troubleshoot; computer science; cyber security; distributed directory information services; computer technology; electrical equipment components,8
+C0190,3,DPSA28-134,,[],project commissioning; project management; computer science; Source (digital game creation systems),4
+C0191,1,DPSA36-271,,[],communication; report facts,2
+C0191,2,DPSA38-526b,,[],,0
+C0191,3,DPSA36-270d,,[],communication; infection control,2
+C0192,1,DPSA31-237,,[],communication; office administration,2
+C0192,2,DPSA31-243,,[],cleaning products; handle chemicals; report facts; cleaning techniques; make reservations,5
+C0192,3,DPSA31-245,,[],customer service; communication; clean surfaces; process payments; make reservations,5
+C0193,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0193,2,DPSA29-246,,[],communication; financial management; Computer Assisted Language Learning; logistics,4
+C0193,3,DPSA36-226,,[],,0
+C0194,1,DPSA32-268,,[],database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,6
+C0194,2,PNET-0022,,[],health and safety in the workplace; schedule production; English; food science; have computer literacy,5
+C0194,3,PNET-0066,Mine Manager's Certificate of Competency | Blasting certificate,"[[""MIN_MANAGER""], [""MIN_BLASTING""]]",mining engineering; logistics,2
+C0195,1,DPSA36-270a,,[],communication; infection control,2
+C0195,2,DPSA29-247,,[],,0
+C0195,3,PNET-0024,,[],customer service; English; economics; logistics; accounting,5
+C0196,1,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; environmental legislation; project management; environmental engineering; oil rig legislation,8
+C0196,2,DPSA28-152c,,[],logistics,1
+C0196,3,DPSA28-142c,,[],report facts,1
+C0197,1,DPSA36-270d,,[],communication; infection control,2
+C0197,2,DPSA36-271,,[],communication; report facts,2
+C0197,3,DPSA36-254b,National Diploma / NQF 6 qualification or Grade 12 / Matric (National Senior Certificate) | Valid driver's licence (any code),"[[""DIPLOMA"", ""GR12""], [""LIC_ANY""]]",communication; supervise crew; supervise staff; report facts; have computer literacy; human resource management,6
+C0198,1,DPSA28-142c,,[],report facts,1
+C0198,2,DPSA28-153a,,[],nutrition; logistics,2
+C0198,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0199,1,DPSA36-255,,[],manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0199,2,DPSA36-261b,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0199,3,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0200,1,DPSA28-144e,,[],plan,1
+C0200,2,DPSA28-125,,[],,0
+C0200,3,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0201,1,DPSA28-144e,,[],plan,1
+C0201,2,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0201,3,DPSA28-125,,[],,0
+C0202,1,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; project management; environmental engineering; oil rig legislation,7
+C0202,2,DPSA31-221,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",quality assurance procedures; waste management; financial management; physics; manage resources; manage air quality; oil rig legislation,7
+C0202,3,DPSA31-233,,[],project commissioning; project management; statistics; report facts; oil rig legislation,5
+C0203,1,DPSA32-260,,[],communication; financial statements; financial management; logistics; accounting,5
+C0203,2,DPSA29-238,,[],communication; financial management,2
+C0203,3,DPSA32-269,,[],manage supplies; analyse supply chain strategies; logistics; supply chain management,4
+C0204,1,DPSA34-233,,[],,0
+C0204,2,DPSA29-237,,[],project commissioning; project management; civil engineering; economics; financial analysis; monitor swimming-pool infrastructure; public administration,7
+C0204,3,DPSA29-239,,[],communication; financial management; report facts; capacity building; plan,5
+C0205,1,DPSA29-240,,[],communication; financial management; capacity building,3
+C0205,2,DPSA36-255,,[],financial management; supervise crew; supervise staff; accounting,4
+C0205,3,DPSA38-497,,[],community medicine; manage resources; public health; primary care,4
+C0206,1,DPSA34-242,,[],write technical reports; report facts,2
+C0206,2,DPSA34-241,,[],health and safety in the workplace; write technical reports; report facts,3
+C0206,3,DPSA32-267,,[],carpentry; project commissioning; project management; report facts; think creatively,5
+C0207,1,DPSA30-175,,[],criminology; consultation; social sciences; report facts; public administration,5
+C0207,2,DPSA30-194,,[],criminology; social sciences; statistics; report facts; public administration,5
+C0207,3,DPSA30-176,,[],project commissioning; social sciences; project management; knowledge management; document management,5
+C0208,1,DPSA31-237,,[],communication; office administration,2
+C0208,2,DPSA38-500,,[],electrical engineering,1
+C0208,3,DPSA36-266,,[],communication; have computer literacy,2
+C0209,1,DPSA31-237,,[],communication; office administration,2
+C0209,2,DPSA34-240,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; database; economics; analyse supply chain strategies; plan; supply chain management,6
+C0209,3,DPSA36-266,,[],communication; have computer literacy,2
+C0210,1,DPSA36-256,,[],advise others; communication; morality; report facts; ethics; have computer literacy,6
+C0210,2,DPSA28-120c,,[],report facts; capacity building,2
+C0210,3,DPSA31-220c,,[],maintain freelance database; communication; conflict management; report facts; have computer literacy,5
+C0211,1,PNET-0001,Clinical Practice Guidelines (CPG) certificate,"[[""EMS_CPG""]]",report facts,1
+C0211,2,DPSA38-522a,,[],quality standards,1
+C0211,3,DPSA38-522b,,[],quality standards,1
+C0212,1,DPSA28-117,,[],manage resources,1
+C0212,2,DPSA34-233,,[],,0
+C0212,3,DPSA36-225,,[],,0
+C0213,1,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0213,2,PNET-0054,,[],customer service,1
+C0213,3,DPSA36-271,,[],communication; report facts,2
+C0214,1,DPSA36-239,,[],civil engineering,1
+C0214,2,DPSA36-233,,[],civil engineering; mechanical engineering,2
+C0214,3,DPSA36-227,,[],,0
+C0215,1,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0215,2,DPSA36-227,,[],,0
+C0215,3,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0216,1,DPSA32-248a,,[],financial management,1
+C0216,2,DPSA28-113,,[],,0
+C0216,3,DPSA32-249,,[],financial management,1
+C0217,1,DPSA30-202,,[],have computer literacy; public administration,2
+C0217,2,DPSA34-237,,[],public administration,1
+C0217,3,DPSA30-180,,[],social sciences; strategic planning; public administration,3
+C0218,1,DPSA30-183c,,[],lead others; manage resources; have computer literacy; logistics,4
+C0218,2,DPSA31-234b,,[],troubleshoot; cyber security; report facts; computer technology,4
+C0218,3,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0219,1,DPSA36-269,,[],patents; communication; knowledge management; transfer patients,4
+C0219,2,DPSA38-519d,,[],quality standards; medical oncology; psychiatry,3
+C0219,3,DPSA38-519e,,[],quality standards; medical oncology; psychiatry,3
+C0220,1,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0220,2,DPSA36-255,,[],manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0220,3,DPSA29-240,Bachelor's degree / NQF 7,"[[""DEGREE""]]",communication; financial management; capacity building,3
+C0221,1,DPSA30-198b,,[],social sciences; provide information; report facts; public administration,4
+C0221,2,DPSA30-197b,,[],customer service; social sciences; report facts; public administration,4
+C0221,3,DPSA30-183c,,[],lead others; manage resources; have computer literacy; logistics,4
+C0222,1,DPSA31-237,,[],communication; office administration,2
+C0222,2,DPSA38-500,,[],electrical engineering,1
+C0222,3,DPSA36-266,,[],communication; have computer literacy,2
+C0223,1,DPSA34-233,,[],,0
+C0223,2,DPSA29-234,,[],enterprise risk management; project commissioning; risk management; project management,4
+C0223,3,DPSA29-228,,[],financial management; statistics; accounting,3
+C0224,1,DPSA38-512,,[],manage contracts; analyse supply chain strategies; logistics; accounting; supply chain management,5
+C0224,2,PNET-0069,,[],communication; database; office administration; talent management strategies,4
+C0224,3,DPSA31-237,,[],communication; office administration,2
+C0225,1,DPSA38-522b,,[],quality standards,1
+C0225,2,DPSA38-522a,,[],quality standards,1
+C0225,3,PNET-0006,National Diploma / NQF 6 qualification | Clinical Practice Guidelines (CPG) certificate,"[[""DIPLOMA""], [""EMS_CPG""]]",report facts; first aid,2
+C0226,1,DPSA36-225,,[],,0
+C0226,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0226,3,DPSA31-237,,[],communication; office administration,2
+C0227,1,DPSA36-270c,,[],communication; infection control,2
+C0227,2,DPSA36-270d,,[],communication; infection control,2
+C0227,3,DPSA36-270a,,[],communication; infection control,2
+C0228,1,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0228,2,DPSA36-254b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; supervise crew; supervise staff; report facts; have computer literacy; human resource management,6
+C0228,3,DPSA31-237,,[],communication; office administration,2
+C0229,1,PNET-0001,,[],report facts,1
+C0229,2,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts; emergency medicine,2
+C0229,3,PNET-0005,,[],report facts,1
+C0230,1,DPSA28-125,,[],,0
+C0230,2,DPSA28-144e,,[],plan,1
+C0230,3,DPSA28-122,,[],financial management; accounting,2
+C0231,1,DPSA36-270b,,[],communication; infection control,2
+C0231,2,DPSA31-243,,[],cleaning products; handle chemicals; perform cleaning duties; report facts; cleaning techniques; make reservations,6
+C0231,3,DPSA31-244,,[],cleaning products; perform cleaning duties; iron textiles; maintain linen operation; make reservations,5
+C0232,1,DPSA36-270d,,[],communication; infection control,2
+C0232,2,DPSA36-270a,,[],communication; infection control,2
+C0232,3,DPSA29-247,,[],,0
+C0233,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0233,2,DPSA36-229,,[],,0
+C0233,3,DPSA28-123,,[],financial management; accounting,2
+C0234,1,DPSA36-240,,[],,0
+C0234,2,DPSA36-228,,[],property law,1
+C0234,3,DPSA36-234,,[],civil engineering,1
+C0235,1,DPSA29-247,,[],,0
+C0235,2,DPSA36-270c,,[],communication; infection control,2
+C0235,3,DPSA36-270a,,[],communication; infection control,2
+C0236,1,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0236,2,DPSA28-142d,,[],report facts,1
+C0236,3,DPSA36-245,,[],communication; project commissioning; social sciences; financial management; project management; sociology; conflict management; demography,10
+C0237,1,DPSA36-254b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; supervise crew; supervise staff; report facts; have computer literacy; human resource management,6
+C0237,2,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0237,3,DPSA36-271,,[],communication; report facts,2
+C0238,1,DPSA28-133,,[],computer science; ICT infrastructure; distributed directory information services,3
+C0238,2,DPSA31-225,,[],communication; project commissioning; project management; computer technology,4
+C0238,3,DPSA30-177,,[],JavaScript; ASP.NET; computer science,3
+C0239,1,DPSA32-268,,[],manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0239,2,DPSA29-229,,[],financial statements; financial management; internal auditing; report facts; accounting,5
+C0239,3,PNET-0022,,[],health and safety in the workplace; schedule production; English; food science; have computer literacy,5
+C0240,1,DPSA34-233,,[],,0
+C0240,2,DPSA29-239,,[],communication; financial management; report facts; capacity building; plan,5
+C0240,3,DPSA30-181,,[],photography; JavaScript; adobe creative suite; graphic design; motion graphics; 3D modelling; think creatively; plan,9
+C0241,1,DPSA36-229,,[],,0
+C0241,2,DPSA36-235,,[],civil engineering,1
+C0241,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0242,1,DPSA38-514b,,[],medicines,1
+C0242,2,DPSA38-514a,,[],medicines,1
+C0242,3,DPSA31-237,,[],communication; office administration,2
+C0243,1,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; environmental legislation; project management; environmental engineering; oil rig legislation,8
+C0243,2,DPSA29-240,,[],communication; financial management; capacity building,3
+C0243,3,DPSA36-255,,[],financial management; supervise crew; supervise staff; accounting,4
+C0244,1,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0244,2,DPSA36-270d,,[],communication; infection control,2
+C0244,3,DPSA36-271,,[],communication; report facts,2
+C0245,1,DPSA36-226,,[],,0
+C0245,2,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0245,3,DPSA36-238,,[],electrical engineering; civil engineering,2
+C0246,1,DPSA38-522b,Professional Driving Permit (PrDP),"[[""PRDP""]]",quality standards,1
+C0246,2,DPSA38-522a,Professional Driving Permit (PrDP),"[[""PRDP""]]",quality standards,1
+C0246,3,PNET-0006,National Diploma / NQF 6 qualification | Professional Driving Permit (PrDP) | Clinical Practice Guidelines (CPG) certificate,"[[""DIPLOMA""], [""PRDP""], [""EMS_CPG""]]",report facts,1
+C0247,1,DPSA36-270d,,[],communication; infection control,2
+C0247,2,DPSA36-271,,[],communication; report facts,2
+C0247,3,DPSA32-260,Bachelor's degree / NQF 7 or Grade 12 / Matric (National Senior Certificate) | Valid driver's licence (any code),"[[""DEGREE"", ""GR12""], [""LIC_ANY""]]",communication; financial statements; financial management; asset management; logistics; accounting,6
+C0248,1,DPSA36-225,,[],,0
+C0248,2,DPSA38-512,,[],manage contracts; analyse supply chain strategies; logistics; accounting; supply chain management,5
+C0248,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0249,1,DPSA28-113,,[],,0
+C0249,2,DPSA36-229,,[],,0
+C0249,3,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0250,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0250,2,DPSA36-257b,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0250,3,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0251,1,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0251,2,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0251,3,DPSA32-261,,[],project commissioning; physics; project management; statistics; write technical reports; report facts,6
+C0252,1,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0252,2,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0252,3,DPSA30-202,,[],have computer literacy; public administration,2
+C0253,1,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0253,2,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0253,3,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0254,1,DPSA38-523b,,[],,0
+C0254,2,DPSA36-271,,[],communication; report facts,2
+C0254,3,DPSA38-526a,,[],,0
+C0255,1,DPSA38-519a,,[],quality standards; medical oncology; psychiatry,3
+C0255,2,DPSA38-519c,,[],quality standards; medical oncology; psychiatry,3
+C0255,3,DPSA38-518a,,[],,0
+C0256,1,DPSA36-270b,,[],communication; infection control,2
+C0256,2,DPSA31-243,,[],cleaning products; handle chemicals; perform cleaning duties; report facts; cleaning techniques; make reservations,6
+C0256,3,DPSA31-244,,[],cleaning products; perform cleaning duties; iron textiles; maintain linen operation; make reservations,5
+C0257,1,DPSA28-144b,,[],plan,1
+C0257,2,DPSA28-142d,,[],report facts,1
+C0257,3,DPSA28-123,,[],financial forecasting; financial management; accounting,3
+C0258,1,DPSA31-237,,[],communication; office administration,2
+C0258,2,DPSA36-227,,[],,0
+C0258,3,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0259,1,DPSA31-237,,[],communication; office administration,2
+C0259,2,DPSA38-500,,[],electrical engineering,1
+C0259,3,PNET-0024,,[],customer service; English; economics; logistics; accounting,5
+C0260,1,DPSA28-142c,,[],report facts,1
+C0260,2,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0260,3,DPSA28-153a,,[],nutrition; logistics,2
+C0261,1,DPSA29-247,,[],,0
+C0261,2,DPSA36-270a,,[],communication; infection control,2
+C0261,3,DPSA36-236,,[],electrical engineering,1
+C0262,1,DPSA32-248b,,[],financial management,1
+C0262,2,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0262,3,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0263,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0263,2,DPSA36-229,,[],,0
+C0263,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0264,1,PNET-0024,,[],English; economics; logistics; accounting,4
+C0264,2,DPSA36-259,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; report facts; public administration; logistics,4
+C0264,3,DPSA31-237,,[],communication; office administration,2
+C0265,1,DPSA31-244,,[],cleaning products; iron textiles; make reservations,3
+C0265,2,DPSA31-237,,[],communication; office administration,2
+C0265,3,DPSA38-500,,[],electrical engineering,1
+C0266,1,DPSA28-111,,[],,0
+C0266,2,DPSA28-110,,[],,0
+C0266,3,DPSA32-250,,[],communication; apply change management; project commissioning; have computer literacy,4
+C0267,1,DPSA28-118,,[],audiology; assistive instruments; report facts,3
+C0267,2,DPSA38-526b,,[],,0
+C0267,3,DPSA38-526a,,[],,0
+C0268,1,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; environmental legislation; project management; environmental engineering; oil rig legislation,8
+C0268,2,DPSA28-142d,,[],report facts,1
+C0268,3,DPSA28-144b,,[],plan,1
+C0269,1,DPSA28-133,,[],ICT safety; computer science; cyber security; distributed directory information services,4
+C0269,2,DPSA36-252,,[],customer service; communication; troubleshoot; computer science; cyber security; distributed directory information services; computer technology; electrical equipment components,8
+C0269,3,DPSA29-234,,[],enterprise risk management; project commissioning; risk management; project management,4
+C0270,1,DPSA34-240,,[],manage supplies; database; analyse supply chain strategies; perform procurement processes; plan; supply chain management,6
+C0270,2,DPSA31-224,,[],development economics; think analytically; financial management; entrepreneurship; report facts; have computer literacy,6
+C0270,3,DPSA30-171,,[],report facts; logistics,2
+C0271,1,DPSA36-229,,[],,0
+C0271,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0271,3,DPSA36-235,,[],civil engineering,1
+C0272,1,DPSA34-242,,[],write technical reports; report facts,2
+C0272,2,DPSA34-241,,[],health and safety in the workplace; write technical reports; report facts,3
+C0272,3,DPSA32-267,,[],carpentry; project commissioning; project management; report facts; think creatively,5
+C0273,1,DPSA34-233,,[],,0
+C0273,2,DPSA28-117,,[],manage resources; draft legislation,2
+C0273,3,DPSA29-242,,[],financial management; internal auditing; report facts; have computer literacy; accounting,5
+C0274,1,DPSA28-142d,,[],report facts,1
+C0274,2,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0274,3,DPSA28-151a,,[],public administration; document management,2
+C0275,1,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0275,2,DPSA28-151a,,[],public administration; document management,2
+C0275,3,DPSA28-123,,[],financial forecasting; financial management; accounting,3
+C0276,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0276,2,PNET-0054,,[],customer service; control of expenses,2
+C0276,3,DPSA31-237,,[],communication; office administration,2
+C0277,1,DPSA32-262,,[],project commissioning; project management; civil engineering; write technical reports; report facts; think creatively; plan,7
+C0277,2,DPSA32-263,,[],project commissioning; project management; civil engineering; write technical reports; report facts; think creatively,6
+C0277,3,DPSA32-253,,[],project commissioning; maintenance operations; project management; asset management; provide technical expertise,5
+C0278,1,DPSA29-240,,[],communication; financial management; capacity building,3
+C0278,2,DPSA28-124b,,[],manage supplies; financial management; analyse supply chain strategies; asset management; supply chain management,5
+C0278,3,DPSA36-264,,[],communication; financial management; statistics; report facts,4
+C0279,1,DPSA28-138b,,[],financial management; report facts; accounting,3
+C0279,2,DPSA36-248,,[],patents; communication; project commissioning; financial management; project management; report facts; accounting,7
+C0279,3,DPSA28-123,,[],financial forecasting; financial management; accounting,3
+C0280,1,DPSA28-142c,,[],report facts,1
+C0280,2,DPSA28-131,,[],logistics,1
+C0280,3,DPSA30-202,,[],have computer literacy; public administration,2
+C0281,1,DPSA38-497,,[],community medicine; manage resources; public health; primary care,4
+C0281,2,DPSA36-228,,[],property law,1
+C0281,3,DPSA38-499,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",,0
+C0282,1,DPSA36-227,,[],,0
+C0282,2,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0282,3,DPSA36-239,,[],civil engineering,1
+C0283,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0283,2,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0283,3,DPSA36-246,,[],customer service; communication; health and safety in the workplace; office administration; coordinate catering; conflict management; report facts; public administration,11
+C0284,1,PNET-0062,,[],risk management; plan,2
+C0284,2,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0284,3,PNET-0066,Bachelor's degree / NQF 7 or National Diploma / NQF 6 qualification | Mine Manager's Certificate of Competency,"[[""DEGREE"", ""DIPLOMA""], [""MIN_MANAGER""]]",mining engineering; logistics; control production,3
+C0285,1,DPSA28-113,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",,0
+C0285,2,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0285,3,DPSA28-142a,,[],report facts,1
+C0286,1,DPSA28-142a,,[],report facts,1
+C0286,2,DPSA28-153c,,[],nutrition; logistics,2
+C0286,3,DPSA36-257b,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0287,1,DPSA36-229,,[],,0
+C0287,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0287,3,DPSA36-235,,[],civil engineering,1
+C0288,1,DPSA29-243,,[],project commissioning; business analysis; project management; financial analysis,4
+C0288,2,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0288,3,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0289,1,DPSA36-227,,[],,0
+C0289,2,DPSA36-239,,[],civil engineering,1
+C0289,3,DPSA36-233,,[],civil engineering; mechanical engineering,2
+C0290,1,DPSA38-500,,[],electrical engineering,1
+C0290,2,DPSA36-229,,[],,0
+C0290,3,DPSA36-235,,[],civil engineering,1
+C0291,1,DPSA28-144e,,[],plan,1
+C0291,2,DPSA28-125,,[],,0
+C0291,3,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0292,1,DPSA38-500,,[],electrical engineering,1
+C0292,2,PNET-0072,,[],collect samples; remove dust; mathematics; ventilation systems; physics; perform sample testing; report facts,7
+C0292,3,DPSA31-237,,[],communication; office administration,2
+C0293,1,DPSA38-522b,EMS qualification (BLS / ILS / ALS),"[[""EMS_QUAL""]]",quality standards,1
+C0293,2,DPSA38-522a,EMS qualification (BLS / ILS / ALS),"[[""EMS_QUAL""]]",quality standards,1
+C0293,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0294,1,DPSA32-249,,[],financial management,1
+C0294,2,DPSA32-248a,,[],financial management,1
+C0294,3,DPSA38-499,,[],,0
+C0295,1,DPSA31-233,Valid driver's licence (any code),"[[""LIC_ANY""]]",project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0295,2,DPSA32-269,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0295,3,DPSA36-257b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0296,1,DPSA28-113,,[],,0
+C0296,2,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; environmental legislation; project management; environmental engineering; oil rig legislation,8
+C0296,3,DPSA32-246,,[],apply change management; financial management; policy analysis; have computer literacy,4
+C0297,1,DPSA30-179,,[],have computer literacy; human resource management,2
+C0297,2,DPSA34-235,,[],public administration; human resource management,2
+C0297,3,DPSA34-236,,[],public administration; human resource management,2
+C0298,1,DPSA36-264,,[],communication; financial management; statistics; report facts,4
+C0298,2,DPSA30-192b,,[],economics; conflict management; issue permits; logistics,4
+C0298,3,DPSA28-142b,,[],report facts,1
+C0299,1,DPSA36-240,,[],,0
+C0299,2,DPSA36-228,,[],property law,1
+C0299,3,DPSA36-234,,[],civil engineering,1
+C0300,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0300,2,DPSA36-257c,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0300,3,DPSA32-268,Bachelor's degree / NQF 7 | Valid driver's licence (any code),"[[""DEGREE""], [""LIC_ANY""]]",manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0301,1,DPSA36-252,,[],customer service; communication; computer science; cyber security; distributed directory information services; computer technology; electrical equipment components; implement ICT recovery system,8
+C0301,2,DPSA31-234a,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",cyber security; report facts; computer technology,3
+C0301,3,DPSA32-261,,[],project commissioning; physics; project management; statistics; write technical reports; report facts,6
+C0302,1,DPSA28-155a,,[],financial management,1
+C0302,2,DPSA28-155b,,[],financial management,1
+C0302,3,DPSA28-123,,[],financial management; accounting,2
+C0303,1,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0303,2,DPSA36-270d,,[],communication; infection control,2
+C0303,3,DPSA36-271,,[],communication; report facts,2
+C0304,1,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0304,2,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0304,3,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0305,1,DPSA30-199,,[],mechanical engineering; have computer literacy,2
+C0305,2,PNET-0076,,[],join metals; operate welding equipment; mechanical systems,3
+C0305,3,DPSA34-241,,[],health and safety in the workplace; write technical reports; report facts,3
+C0306,1,DPSA29-247,,[],,0
+C0306,2,DPSA36-236,,[],electrical engineering,1
+C0306,3,DPSA36-270a,,[],communication; infection control,2
+C0307,1,PNET-0016,,[],troubleshoot; root cause analysis; lead others,3
+C0307,2,DPSA36-270c,,[],communication; infection control,2
+C0307,3,DPSA36-270d,,[],communication; infection control,2
+C0308,1,DPSA36-266,,[],communication,1
+C0308,2,DPSA31-237,,[],communication; office administration,2
+C0308,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0309,1,DPSA36-233,,[],civil engineering,1
+C0309,2,DPSA36-232,,[],civil engineering,1
+C0309,3,DPSA36-229,,[],,0
+C0310,1,DPSA28-118,,[],assistive instruments; report facts,2
+C0310,2,DPSA38-501b,,[],surgery; neonatology; supervise staff; general surgery,4
+C0310,3,DPSA38-501a,,[],surgery; neonatology; supervise staff; general surgery,4
+C0311,1,DPSA36-270d,,[],communication; infection control,2
+C0311,2,DPSA36-271,,[],communication; report facts,2
+C0311,3,DPSA31-243,,[],handle chemicals; report facts; cleaning techniques; make reservations,4
+C0312,1,DPSA38-497,,[],community medicine; manage resources; public health; primary care,4
+C0312,2,DPSA38-499,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",,0
+C0312,3,DPSA38-500,,[],electrical engineering,1
+C0313,1,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0313,2,DPSA38-508a,,[],financial management; economics; accounting,3
+C0313,3,DPSA36-227,,[],,0
+C0314,1,DPSA28-142d,,[],report facts,1
+C0314,2,DPSA28-144b,,[],plan,1
+C0314,3,DPSA28-147d,,[],asset management; report facts; logistics,3
+C0315,1,DPSA36-238,,[],electrical engineering; civil engineering,2
+C0315,2,DPSA36-226,,[],,0
+C0315,3,DPSA36-232,,[],civil engineering; mechanical engineering,2
+C0316,1,DPSA32-268,,[],manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0316,2,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0316,3,DPSA28-144e,,[],plan,1
+C0317,1,PNET-0060,,[],use earth sciences tools; plan,2
+C0317,2,DPSA36-239,,[],civil engineering,1
+C0317,3,DPSA36-227,,[],,0
+C0318,1,DPSA30-182,,[],health and safety in the workplace; journalism; supervise crew; supervise staff,4
+C0318,2,DPSA30-189,,[],communication; report facts; have computer literacy,3
+C0318,3,DPSA30-174,,[],project commissioning; social sciences; project management; supervise crew; supervise staff; public administration,6
+C0319,1,DPSA34-233,,[],,0
+C0319,2,DPSA36-262,,[],communication; project commissioning; social development; project management; legal research; have computer literacy,6
+C0319,3,DPSA29-228,,[],financial management; statistics; accounting,3
+C0320,1,DPSA28-136c,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0320,2,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0320,3,DPSA30-192b,,[],economics; conflict management; issue permits; have computer literacy; logistics,5
+C0321,1,DPSA36-225,,[],,0
+C0321,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0321,3,DPSA36-262,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; social development; project management; legal research; have computer literacy,6
+C0322,1,DPSA34-233,,[],,0
+C0322,2,DPSA36-262,,[],communication; project commissioning; social development; project management; have computer literacy,5
+C0322,3,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0323,1,DPSA38-500,,[],electrical engineering,1
+C0323,2,DPSA31-237,,[],communication; office administration,2
+C0323,3,PNET-0054,,[],customer service; control of expenses,2
+C0324,1,DPSA36-261a,,[],communication; project commissioning; financial management; project management; sociology; demography; assist community,7
+C0324,2,DPSA30-198b,,[],criminology; provide information; report facts; public administration,4
+C0324,3,DPSA36-261e,,[],communication; project commissioning; financial management; project management; sociology; demography; assist community,7
+C0325,1,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0325,2,DPSA36-271,,[],communication; report facts,2
+C0325,3,DPSA32-260,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial statements; financial management; asset management; logistics; accounting,6
+C0326,1,DPSA28-142c,,[],report facts,1
+C0326,2,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0326,3,DPSA28-145a,,[],risk management; manage closed-circuit television system; have computer literacy,3
+C0327,1,DPSA28-116e,,[],,0
+C0327,2,DPSA36-270c,,[],communication; infection control,2
+C0327,3,DPSA32-270,,[],financial management; conflict management; public administration; logistics,4
+C0328,1,DPSA31-244,,[],cleaning products; iron textiles; make reservations,3
+C0328,2,DPSA31-245,,[],customer service; communication; clean surfaces; process payments; make reservations,5
+C0328,3,DPSA31-243,,[],cleaning products; handle chemicals; report facts; cleaning techniques; make reservations,5
+C0329,1,DPSA36-270b,,[],communication; infection control,2
+C0329,2,PNET-0018,,[],communication; project commissioning; ensure compliance with construction project deadline; project management,4
+C0329,3,DPSA30-198b,National Diploma / NQF 6 qualification or Grade 12 / Matric (National Senior Certificate),"[[""DIPLOMA"", ""GR12""]]",criminology; social sciences; provide information; report facts; public administration,5
+C0330,1,DPSA36-266,,[],communication; have computer literacy,2
+C0330,2,DPSA38-500,,[],electrical engineering,1
+C0330,3,DPSA31-237,,[],communication; office administration,2
+C0331,1,DPSA29-240,,[],communication; financial management; capacity building,3
+C0331,2,DPSA34-233,,[],,0
+C0331,3,DPSA28-117,,[],manage resources; draft legislation,2
+C0332,1,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0332,2,DPSA36-227,,[],,0
+C0332,3,DPSA38-508a,,[],financial management; economics; accounting,3
+C0333,1,DPSA36-266,,[],communication; have computer literacy,2
+C0333,2,DPSA31-237,,[],communication; office administration,2
+C0333,3,DPSA38-500,,[],electrical engineering,1
+C0334,1,DPSA38-522a,,[],quality standards,1
+C0334,2,PNET-0001,Clinical Practice Guidelines (CPG) certificate,"[[""EMS_CPG""]]",report facts,1
+C0334,3,PNET-0005,Clinical Practice Guidelines (CPG) certificate,"[[""EMS_CPG""]]",report facts,1
+C0335,1,DPSA31-220a,,[],maintain freelance database; communication; conflict management; report facts,4
+C0335,2,DPSA36-261d,,[],communication; project commissioning; financial management; project management; sociology; demography; assist community,7
+C0335,3,DPSA36-267,,[],morality; financial capability; ethics,3
+C0336,1,PNET-0066,,[],mining engineering; logistics; control production,3
+C0336,2,DPSA36-254b,,[],communication; manage staff; supervise crew; report facts; have computer literacy; human resource management,6
+C0336,3,DPSA28-142d,,[],report facts,1
+C0337,1,DPSA36-270b,,[],communication; infection control,2
+C0337,2,DPSA32-269,Valid driver's licence (any code),"[[""LIC_ANY""]]",analyse supply chain strategies; asset management; logistics; supply chain management,4
+C0337,3,DPSA36-257b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0338,1,DPSA36-228,,[],property law,1
+C0338,2,DPSA36-264,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial management; statistics; report facts,4
+C0338,3,DPSA38-527b,,[],supervise staff; public administration; human resource management,3
+C0339,1,DPSA36-262,,[],communication; project commissioning; social development; project management; legal research; have computer literacy,6
+C0339,2,DPSA30-189,,[],communication; report facts; have computer literacy,3
+C0339,3,DPSA32-258,,[],database; financial management; conflict management; plan,4
+C0340,1,DPSA36-225,,[],,0
+C0340,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0340,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0341,1,DPSA28-136b,,[],safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0341,2,DPSA28-142c,,[],report facts,1
+C0341,3,DPSA28-153a,,[],nutrition; logistics,2
+C0342,1,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0342,2,DPSA28-142d,,[],report facts,1
+C0342,3,DPSA28-151a,,[],public administration; document management,2
+C0343,1,DPSA30-181,,[],photography; JavaScript; adobe creative suite; graphic design; motion graphics; 3D modelling; think creatively; plan,9
+C0343,2,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0343,3,DPSA30-192b,,[],economics; conflict management; issue permits; have computer literacy; logistics,5
+C0344,1,DPSA36-270c,,[],communication; infection control,2
+C0344,2,DPSA36-270d,,[],communication; infection control,2
+C0344,3,DPSA31-243,,[],cleaning products; handle chemicals; report facts; cleaning techniques; make reservations,5
+C0345,1,PNET-0006,National Diploma / NQF 6 qualification | Valid driver's licence (any code),"[[""DIPLOMA""], [""LIC_ANY""]]",report facts; emergency medicine,2
+C0345,2,PNET-0001,Valid driver's licence (any code),"[[""LIC_ANY""]]",report facts,1
+C0345,3,PNET-0005,Valid driver's licence (any code),"[[""LIC_ANY""]]",report facts,1
+C0346,1,DPSA28-154b,,[],process payments,1
+C0346,2,DPSA28-137a,,[],report facts; accounting,2
+C0346,3,DPSA31-235,,[],communication,1
+C0347,1,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0347,2,DPSA36-229,,[],,0
+C0347,3,DPSA38-512,,[],manage supplies; manage contracts; analyse supply chain strategies; logistics; accounting; supply chain management,6
+C0348,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0348,2,DPSA36-257c,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0348,3,DPSA32-268,Bachelor's degree / NQF 7 | Valid driver's licence (any code),"[[""DEGREE""], [""LIC_ANY""]]",manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0349,1,DPSA30-192c,,[],economics; conflict management; issue permits; logistics,4
+C0349,2,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0349,3,DPSA28-142a,,[],report facts,1
+C0350,1,DPSA31-221,Valid driver's licence (any code),"[[""LIC_ANY""]]",quality assurance procedures; financial management; physics; environmental legislation; manage resources; manage air quality; oil rig legislation,7
+C0350,2,DPSA38-498,,[],statistics; knowledge management; document management,3
+C0350,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0351,1,DPSA29-233,,[],financial management; report facts; accounting,3
+C0351,2,DPSA28-138a,,[],financial management; report facts; accounting,3
+C0351,3,DPSA32-260,,[],communication; financial management; asset management; logistics; accounting,5
+C0352,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0352,2,DPSA32-270,,[],financial management; conflict management; public administration; logistics,4
+C0352,3,DPSA36-246,,[],customer service; communication; health and safety in the workplace; office administration; coordinate catering; conflict management; report facts; public administration,11
+C0353,1,DPSA36-226,,[],,0
+C0353,2,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0353,3,DPSA36-238,,[],electrical engineering; civil engineering,2
+C0354,1,DPSA28-142d,,[],report facts,1
+C0354,2,DPSA28-144b,,[],plan,1
+C0354,3,DPSA28-144a,,[],plan,1
+C0355,1,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0355,2,DPSA36-255,,[],manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0355,3,DPSA30-192b,,[],economics; conflict management; issue permits; have computer literacy; logistics,5
+C0356,1,DPSA30-192c,,[],economics; conflict management; issue permits; logistics,4
+C0356,2,DPSA31-236,,[],communication; office administration,2
+C0356,3,DPSA30-183c,,[],law enforcement; lead others; manage resources; logistics,4
+C0357,1,DPSA38-499,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""PS_NYUKELA""]]",,0
+C0357,2,DPSA38-497,Bachelor's degree / NQF 7,"[[""DEGREE""]]",community medicine; manage resources; public health; primary care,4
+C0357,3,DPSA36-268b,SACSSP registration (social work),"[[""REG_SACSSP""]]",customer service; communication,2
+C0358,1,PNET-0058,,[],collect samples; mathematics; perform sample testing; accounting,4
+C0358,2,PNET-0065,,[],collect samples; perform sample testing; report facts,3
+C0358,3,PNET-0068,,[],collect samples; surveying; perform sample testing,3
+C0359,1,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0359,2,DPSA36-252,,[],customer service; communication; troubleshoot; computer science; cyber security; distributed directory information services; computer technology; electrical equipment components,8
+C0359,3,DPSA30-202,,[],have computer literacy; public administration,2
+C0360,1,DPSA29-247,,[],,0
+C0360,2,DPSA36-270a,,[],communication; infection control,2
+C0360,3,DPSA36-236,,[],electrical engineering,1
+C0361,1,DPSA36-270d,,[],communication; infection control,2
+C0361,2,DPSA36-271,,[],communication; report facts,2
+C0361,3,DPSA29-247,,[],,0
+C0362,1,DPSA36-252,,[],customer service; communication; troubleshoot; computer science; distributed directory information services; computer technology; electrical equipment components,7
+C0362,2,DPSA31-225,,[],communication; project commissioning; project management; computer technology,4
+C0362,3,DPSA30-177,,[],JavaScript; ASP.NET; computer science,3
+C0363,1,DPSA31-237,,[],communication; office administration,2
+C0363,2,DPSA36-270d,,[],communication; infection control,2
+C0363,3,PNET-0072,,[],collect samples; remove dust; mathematics; ventilation systems; physics; perform sample testing; report facts,7
+C0364,1,DPSA28-153a,,[],nutrition; logistics,2
+C0364,2,DPSA30-182,,[],health and safety in the workplace; journalism; supervise crew; supervise staff,4
+C0364,3,DPSA29-235,,[],labour legislation; supervise crew; supervise staff; report facts; public administration; plan,6
+C0365,1,DPSA28-154b,,[],financial management; process payments,2
+C0365,2,DPSA28-137a,,[],financial management; report facts; accounting,3
+C0365,3,DPSA34-240,,[],manage supplies; database; analyse supply chain strategies; perform procurement processes; plan; supply chain management,6
+C0366,1,DPSA28-119a,,[],,0
+C0366,2,DPSA28-144e,,[],plan,1
+C0366,3,DPSA34-243,,[],communication; statistics,2
+C0367,1,DPSA28-142c,,[],report facts,1
+C0367,2,DPSA31-230,,[],manage resources; public administration; human resource management,3
+C0367,3,DPSA31-227,,[],communication; entrepreneurship; have computer literacy,3
+C0368,1,DPSA32-269,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0368,2,DPSA36-257b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0368,3,DPSA30-198b,Valid driver's licence (any code),"[[""LIC_ANY""]]",criminology; social sciences; provide information; report facts; public administration,5
+C0369,1,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0369,2,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0369,3,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0370,1,DPSA36-225,,[],,0
+C0370,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0370,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0371,1,DPSA31-231,,[],project commissioning; project management; market research; report facts,4
+C0371,2,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0371,3,PNET-0064,,[],coach employees; lead others; market pricing; customer relationship management,4
+C0372,1,PNET-0001,,[],report facts,1
+C0372,2,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts; emergency medicine,2
+C0372,3,PNET-0005,,[],report facts,1
+C0373,1,DPSA31-237,,[],communication; office administration,2
+C0373,2,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0373,3,DPSA38-497,Bachelor's degree / NQF 7,"[[""DEGREE""]]",community medicine; manage resources; public health; primary care,4
+C0374,1,DPSA36-226,,[],,0
+C0374,2,DPSA29-246,,[],communication; financial management; Computer Assisted Language Learning; logistics,4
+C0374,3,DPSA36-238,,[],electrical engineering; civil engineering,2
+C0375,1,DPSA36-229,,[],,0
+C0375,2,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0375,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0376,1,DPSA32-270,,[],financial management; conflict management; public administration; logistics,4
+C0376,2,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0376,3,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0377,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0377,2,DPSA30-196,,[],criminology; database; social sciences; report facts; have computer literacy; public administration,6
+C0377,3,DPSA36-261d,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0378,1,DPSA36-257b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0378,2,DPSA32-269,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0378,3,DPSA30-198b,Valid driver's licence (any code),"[[""LIC_ANY""]]",criminology; social sciences; provide information; report facts; public administration,5
+C0379,1,DPSA31-220c,,[],maintain freelance database; communication; conflict management; report facts,4
+C0379,2,DPSA36-256,Valid driver's licence (any code),"[[""LIC_ANY""]]",advise others; communication; morality; report facts; ethics,5
+C0379,3,DPSA28-120c,Valid driver's licence (any code),"[[""LIC_ANY""]]",report facts; capacity building,2
+C0380,1,DPSA38-501a,,[],surgery; neonatology; paediatrics; supervise staff; general surgery,5
+C0380,2,DPSA38-526a,,[],,0
+C0380,3,DPSA36-244,Bachelor's degree / NQF 7 | Valid driver's licence (any code),"[[""DEGREE""], [""LIC_ANY""]]",communication; social sciences; knowledge management; Computer Assisted Language Learning,4
+C0381,1,DPSA30-199,,[],mechanical engineering; have computer literacy,2
+C0381,2,PNET-0071,,[],mathematics; manufacturing plant equipment; logistics,3
+C0381,3,DPSA36-252,,[],customer service; communication; computer science; cyber security; distributed directory information services; computer technology; electrical equipment components; implement ICT recovery system,8
+C0382,1,DPSA36-262,,[],communication; project commissioning; social development; project management; have computer literacy,5
+C0382,2,DPSA34-233,,[],,0
+C0382,3,DPSA28-117,,[],manage resources; draft legislation,2
+C0383,1,DPSA29-247,,[],,0
+C0383,2,DPSA36-270b,,[],communication; infection control,2
+C0383,3,DPSA36-270a,,[],communication; infection control,2
+C0384,1,DPSA28-142c,,[],report facts,1
+C0384,2,DPSA28-153a,,[],nutrition; logistics,2
+C0384,3,DPSA28-154b,,[],financial management; process payments,2
+C0385,1,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan,6
+C0385,2,DPSA28-124a,,[],manage supplies; financial management; analyse supply chain strategies; asset management,4
+C0385,3,DPSA30-187,,[],financial management,1
+C0386,1,DPSA36-271,,[],communication; report facts,2
+C0386,2,DPSA36-270d,,[],communication; infection control,2
+C0386,3,DPSA31-241,Grade 12 / Matric (National Senior Certificate),"[[""GR12""]]",wildlife; report facts,2
+C0387,1,DPSA28-142c,,[],report facts,1
+C0387,2,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0387,3,DPSA28-153a,,[],nutrition; logistics,2
+C0388,1,DPSA36-254b,,[],communication; supervise crew; supervise staff; report facts; have computer literacy; human resource management,6
+C0388,2,DPSA28-142d,,[],report facts,1
+C0388,3,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0389,1,DPSA28-128,,[],statistics; public administration,2
+C0389,2,DPSA32-257,,[],communication; financial management; document management,3
+C0389,3,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0390,1,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0390,2,DPSA31-240,,[],communication; law enforcement; make reservations,3
+C0390,3,PNET-0013,,[],communication; metallurgy; lean manufacturing; separate metals from ores,4
+C0391,1,DPSA36-270b,,[],communication; infection control,2
+C0391,2,DPSA38-523a,,[],,0
+C0391,3,DPSA31-243,,[],cleaning products; handle chemicals; perform cleaning duties; report facts; cleaning techniques; make reservations,6
+C0392,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0392,2,PNET-0016,,[],troubleshoot; root cause analysis; lead others,3
+C0392,3,DPSA32-261,Valid driver's licence (any code),"[[""LIC_ANY""]]",project commissioning; physics; project management; statistics; write technical reports; report facts,6
+C0393,1,DPSA28-142d,,[],report facts,1
+C0393,2,DPSA28-144b,,[],plan,1
+C0393,3,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0394,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0394,2,DPSA28-142a,,[],report facts,1
+C0394,3,DPSA34-233,,[],,0
+C0395,1,DPSA36-225,,[],,0
+C0395,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0395,3,DPSA36-239,,[],civil engineering,1
+C0396,1,PNET-0006,,[],report facts; first aid; emergency medicine,3
+C0396,2,PNET-0001,,[],report facts,1
+C0396,3,PNET-0005,,[],report facts,1
+C0397,1,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0397,2,DPSA31-234b,,[],troubleshoot; cyber security; report facts; computer technology,4
+C0397,3,DPSA36-257b,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0398,1,DPSA28-142c,,[],report facts,1
+C0398,2,DPSA28-153a,,[],nutrition; logistics,2
+C0398,3,DPSA28-131,,[],logistics,1
+C0399,1,DPSA36-237,,[],electrical engineering,1
+C0399,2,DPSA36-231,,[],mechanical engineering,1
+C0399,3,DPSA36-225,,[],,0
+C0400,1,DPSA36-271,,[],communication; report facts,2
+C0400,2,DPSA36-270d,,[],communication; infection control,2
+C0400,3,DPSA29-247,,[],,0
+C0401,1,DPSA36-254b,,[],communication; manage staff; supervise crew; supervise staff; report facts; human resource management,6
+C0401,2,DPSA31-224,,[],development economics; think analytically; financial management; entrepreneurship; economics; report facts,6
+C0401,3,DPSA31-227,,[],communication; entrepreneurship,2
+C0402,1,DPSA28-155a,,[],financial forecasting; financial management,2
+C0402,2,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0402,3,DPSA30-191,,[],conflict management; report facts; have computer literacy; logistics,4
+C0403,1,DPSA31-237,,[],communication; office administration,2
+C0403,2,DPSA31-242,,[],communication; conflict management; manage a team; have computer literacy; make reservations,5
+C0403,3,DPSA38-527b,,[],supervise staff; public administration; human resource management,3
+C0404,1,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0404,2,DPSA36-255,,[],manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0404,3,DPSA30-192b,,[],economics; conflict management; issue permits; have computer literacy; logistics,5
+C0405,1,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0405,2,DPSA30-185,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts,1
+C0405,3,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; environmental legislation; project management; environmental engineering; oil rig legislation,8
+C0406,1,PNET-0016,,[],troubleshoot; root cause analysis; lead others,3
+C0406,2,DPSA29-247,,[],,0
+C0406,3,DPSA36-270a,,[],communication; infection control,2
+C0407,1,DPSA38-522b,,[],quality standards,1
+C0407,2,DPSA38-522a,,[],quality standards,1
+C0407,3,PNET-0006,National Diploma / NQF 6 qualification | Clinical Practice Guidelines (CPG) certificate,"[[""DIPLOMA""], [""EMS_CPG""]]",report facts; emergency medicine,2
+C0408,1,DPSA29-240,,[],communication; financial management; capacity building,3
+C0408,2,DPSA28-144c,,[],plan,1
+C0408,3,DPSA32-249,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",financial management,1
+C0409,1,DPSA28-154c,,[],financial management; process payments,2
+C0409,2,DPSA28-154b,,[],financial management; process payments,2
+C0409,3,DPSA31-239,,[],communication; financial management; accounting,3
+C0410,1,DPSA28-136b,,[],safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0410,2,DPSA28-153a,,[],nutrition; logistics,2
+C0410,3,DPSA28-142c,,[],report facts,1
+C0411,1,DPSA38-496,,[],human resource management,1
+C0411,2,DPSA34-233,,[],,0
+C0411,3,DPSA28-111,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",education law,1
+C0412,1,DPSA36-267,,[],morality; financial capability; ethics,3
+C0412,2,DPSA36-268a,,[],customer service; communication,2
+C0412,3,DPSA31-220a,Bachelor's degree / NQF 7,"[[""DEGREE""]]",maintain freelance database; communication; conflict management; report facts; have computer literacy,5
+C0413,1,DPSA36-229,,[],,0
+C0413,2,DPSA36-227,,[],,0
+C0413,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0414,1,DPSA31-220c,,[],maintain freelance database; communication; conflict management; report facts; have computer literacy,5
+C0414,2,DPSA36-226,,[],,0
+C0414,3,DPSA36-256,Valid driver's licence (any code),"[[""LIC_ANY""]]",advise others; communication; morality; report facts; ethics; have computer literacy,6
+C0415,1,DPSA36-271,,[],communication; report facts,2
+C0415,2,DPSA36-270d,,[],communication; infection control,2
+C0415,3,DPSA36-245,National Diploma / NQF 6 qualification or Grade 12 / Matric (National Senior Certificate) | Valid driver's licence (any code),"[[""DIPLOMA"", ""GR12""], [""LIC_ANY""]]",communication; project commissioning; social sciences; financial management; project management; sociology; conflict management; demography,10
+C0416,1,DPSA28-142b,,[],report facts,1
+C0416,2,DPSA28-147b,,[],asset management; report facts; logistics,3
+C0416,3,DPSA28-144c,,[],plan,1
+C0417,1,DPSA30-191,,[],economics; conflict management; report facts; have computer literacy; logistics,5
+C0417,2,DPSA32-264,SACPCMP registration (construction PM),"[[""REG_SACPCMP""]]",project commissioning; financial management; project management,3
+C0417,3,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0418,1,DPSA28-142c,,[],report facts,1
+C0418,2,DPSA28-153a,,[],nutrition; logistics,2
+C0418,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0419,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0419,2,DPSA28-153a,,[],nutrition; logistics,2
+C0419,3,DPSA28-142c,,[],report facts,1
+C0420,1,PNET-0001,,[],report facts,1
+C0420,2,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts; emergency medicine,2
+C0420,3,PNET-0005,,[],report facts,1
+C0421,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0421,2,DPSA30-187,,[],financial management; have computer literacy,2
+C0421,3,DPSA34-237,,[],public administration,1
+C0422,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0422,2,DPSA32-261,,[],project commissioning; physics; project management; statistics; write technical reports; report facts,6
+C0422,3,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0423,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0423,2,DPSA36-257c,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0423,3,DPSA36-260,Valid driver's licence (any code),"[[""LIC_ANY""]]",database; financial management; perform procurement processes; capacity building; logistics,5
+C0424,1,DPSA38-498,,[],statistics; knowledge management; document management,3
+C0424,2,DPSA38-499,,[],,0
+C0424,3,DPSA28-113,Valid driver's licence (any code),"[[""LIC_ANY""]]",,0
+C0425,1,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts; first aid,2
+C0425,2,PNET-0001,,[],report facts,1
+C0425,3,PNET-0005,,[],report facts,1
+C0426,1,DPSA29-240,,[],communication; financial management; capacity building,3
+C0426,2,DPSA34-233,,[],,0
+C0426,3,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0427,1,DPSA28-142a,,[],report facts,1
+C0427,2,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0427,3,DPSA28-144d,,[],plan,1
+C0428,1,DPSA36-270d,,[],communication; infection control,2
+C0428,2,DPSA36-271,,[],communication; report facts,2
+C0428,3,DPSA29-247,,[],,0
+C0429,1,DPSA36-270d,,[],communication; infection control,2
+C0429,2,DPSA36-271,,[],communication; report facts,2
+C0429,3,DPSA29-247,,[],,0
+C0430,1,DPSA30-183b,,[],law enforcement; lead others; manage resources; have computer literacy; logistics,5
+C0430,2,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0430,3,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0431,1,DPSA38-500,,[],electrical engineering,1
+C0431,2,DPSA36-227,,[],,0
+C0431,3,DPSA36-233,,[],civil engineering; mechanical engineering,2
+C0432,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0432,2,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0432,3,DPSA36-246,,[],customer service; communication; health and safety in the workplace; office administration; coordinate catering; conflict management; report facts; public administration,11
+C0433,1,DPSA31-237,,[],communication; office administration,2
+C0433,2,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0433,3,DPSA38-500,,[],electrical engineering,1
+C0434,1,DPSA38-503,,[],lead others; Computer Assisted Language Learning,2
+C0434,2,DPSA38-526b,,[],,0
+C0434,3,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0435,1,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0435,2,DPSA30-192b,,[],economics; conflict management; issue permits; have computer literacy; logistics,5
+C0435,3,DPSA36-255,,[],manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0436,1,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0436,2,DPSA36-225,,[],,0
+C0436,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0437,1,DPSA36-264,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial management; statistics; report facts; have computer literacy,5
+C0437,2,DPSA38-499,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""PS_NYUKELA""]]",,0
+C0437,3,DPSA38-497,Bachelor's degree / NQF 7,"[[""DEGREE""]]",community medicine; manage resources; public health; primary care,4
+C0438,1,DPSA32-268,,[],manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0438,2,DPSA29-237,,[],project commissioning; project management; civil engineering; manage contracts; financial analysis; monitor swimming-pool infrastructure; public administration,7
+C0438,3,DPSA34-233,,[],,0
+C0439,1,DPSA36-266,,[],communication; have computer literacy,2
+C0439,2,DPSA38-500,,[],electrical engineering,1
+C0439,3,DPSA31-237,,[],communication; office administration,2
+C0440,1,DPSA31-227,,[],communication; entrepreneurship; have computer literacy,3
+C0440,2,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0440,3,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0441,1,DPSA28-142c,,[],report facts,1
+C0441,2,DPSA28-153a,,[],nutrition; logistics,2
+C0441,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0442,1,DPSA28-144e,,[],plan,1
+C0442,2,DPSA28-125,,[],,0
+C0442,3,DPSA28-155a,,[],financial forecasting; financial management,2
+C0443,1,DPSA31-237,,[],communication; office administration,2
+C0443,2,DPSA36-266,,[],communication; have computer literacy,2
+C0443,3,DPSA38-500,,[],electrical engineering,1
+C0444,1,DPSA28-131,,[],logistics,1
+C0444,2,DPSA28-142d,,[],report facts,1
+C0444,3,DPSA30-189,,[],communication; report facts; have computer literacy,3
+C0445,1,DPSA36-264,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial management; statistics; report facts; have computer literacy,5
+C0445,2,DPSA38-497,Bachelor's degree / NQF 7,"[[""DEGREE""]]",community medicine; manage resources; public health; primary care,4
+C0445,3,DPSA38-499,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""PS_NYUKELA""]]",,0
+C0446,1,DPSA36-236,,[],electrical engineering,1
+C0446,2,DPSA38-500,,[],electrical engineering,1
+C0446,3,DPSA36-266,,[],communication; have computer literacy,2
+C0447,1,DPSA36-246,,[],customer service; communication; health and safety in the workplace; coordinate catering; conflict management; report facts; public administration; occupational health,10
+C0447,2,DPSA30-186,,[],communication; social sciences; logistics,3
+C0447,3,DPSA28-144e,,[],plan,1
+C0448,1,DPSA28-113,,[],,0
+C0448,2,DPSA30-164,,[],social sciences; public administration,2
+C0448,3,DPSA32-249,,[],financial management,1
+C0449,1,DPSA31-221,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",quality assurance procedures; waste management; financial management; physics; environmental legislation; manage resources; oil rig legislation,7
+C0449,2,DPSA31-228,,[],quality assurance procedures; communication; project commissioning; physics; environmental legislation; project management; environmental engineering; oil rig legislation,8
+C0449,3,DPSA34-233,,[],,0
+C0450,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0450,2,DPSA31-237,,[],communication; office administration,2
+C0450,3,PNET-0003,,[],customer service; communication,2
+C0451,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0451,2,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0451,3,DPSA36-261d,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0452,1,DPSA31-233,Valid driver's licence (any code),"[[""LIC_ANY""]]",project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0452,2,DPSA32-269,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0452,3,DPSA36-270b,,[],communication; infection control,2
+C0453,1,DPSA28-142d,,[],report facts,1
+C0453,2,DPSA28-144b,,[],plan,1
+C0453,3,DPSA28-151a,,[],public administration; document management,2
+C0454,1,DPSA36-225,,[],,0
+C0454,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0454,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0455,1,DPSA36-226,,[],,0
+C0455,2,DPSA36-238,,[],electrical engineering; civil engineering,2
+C0455,3,DPSA29-246,,[],communication; financial management; Computer Assisted Language Learning; logistics,4
+C0456,1,DPSA36-229,,[],,0
+C0456,2,DPSA36-235,,[],civil engineering,1
+C0456,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0457,1,DPSA36-265,,[],customer service; communication; report facts,3
+C0457,2,DPSA36-266,,[],communication,1
+C0457,3,DPSA31-237,,[],communication; office administration,2
+C0458,1,DPSA28-144c,,[],plan,1
+C0458,2,DPSA36-247,,[],communication; conflict management; report facts,3
+C0458,3,DPSA29-240,,[],communication; financial management; capacity building,3
+C0459,1,DPSA36-227,,[],,0
+C0459,2,DPSA36-233,,[],civil engineering; mechanical engineering,2
+C0459,3,DPSA36-239,,[],civil engineering,1
+C0460,1,DPSA36-269,,[],patents; communication; knowledge management; transfer patients; have computer literacy,5
+C0460,2,DPSA29-247,,[],,0
+C0460,3,DPSA36-270a,,[],communication; infection control,2
+C0461,1,DPSA31-233,Valid driver's licence (any code),"[[""LIC_ANY""]]",project commissioning; project management; statistics; report facts; oil rig legislation,5
+C0461,2,PNET-0074,,[],report facts; process data,2
+C0461,3,PNET-0072,,[],collect samples; remove dust; ventilation systems; physics; perform sample testing; report facts,6
+C0462,1,DPSA31-230,,[],manage resources; public administration; human resource management,3
+C0462,2,DPSA30-202,,[],have computer literacy; public administration,2
+C0462,3,DPSA31-227,,[],communication; entrepreneurship; have computer literacy,3
+C0463,1,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0463,2,DPSA36-255,,[],manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0463,3,DPSA30-202,,[],have computer literacy; public administration,2
+C0464,1,DPSA28-155a,,[],,0
+C0464,2,DPSA32-268,,[],manage supplies; database; analyse supply chain strategies; perform procurement processes; plan; supply chain management,6
+C0464,3,DPSA29-240,,[],communication; capacity building,2
+C0465,1,DPSA36-229,,[],,0
+C0465,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0465,3,DPSA36-235,,[],civil engineering,1
+C0466,1,DPSA34-242,,[],write technical reports; report facts,2
+C0466,2,DPSA34-241,,[],health and safety in the workplace; write technical reports; report facts,3
+C0466,3,DPSA32-267,,[],carpentry; project commissioning; project management; report facts; think creatively,5
+C0467,1,DPSA28-144e,,[],plan,1
+C0467,2,DPSA28-125,,[],,0
+C0467,3,DPSA28-147c,,[],asset management; report facts; logistics,3
+C0468,1,DPSA29-240,,[],communication; financial management; capacity building,3
+C0468,2,DPSA28-136c,SAIOSH registration (safety),"[[""REG_SAIOSH""]]",safety engineering; risk management; internal auditing; occupational health; first response,5
+C0468,3,DPSA32-249,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",financial management,1
+C0469,1,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0469,2,DPSA36-225,,[],,0
+C0469,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0470,1,DPSA36-266,,[],communication; have computer literacy,2
+C0470,2,DPSA31-237,,[],communication; office administration,2
+C0470,3,DPSA38-500,,[],electrical engineering,1
+C0471,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0471,2,DPSA30-203,,[],acoustics; morality; linguistics; ethics; sign language,5
+C0471,3,DPSA30-191,,[],economics; conflict management; report facts; have computer literacy; logistics,5
+C0472,1,DPSA36-255,,[],manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0472,2,DPSA36-264,,[],communication; financial management; statistics; report facts; have computer literacy,5
+C0472,3,DPSA28-136c,National Diploma / NQF 6 qualification | SAIOSH registration (safety),"[[""DIPLOMA""], [""REG_SAIOSH""]]",safety engineering; risk management; internal auditing; occupational health; first response,5
+C0473,1,PNET-0016,,[],troubleshoot; root cause analysis; lead others,3
+C0473,2,DPSA29-247,,[],,0
+C0473,3,DPSA36-270a,,[],communication; infection control,2
+C0474,1,DPSA36-261b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; social sciences; financial management; sociology; demography; have computer literacy; assist community,8
+C0474,2,DPSA38-499,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""PS_NYUKELA""]]",,0
+C0474,3,DPSA36-255,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0475,1,DPSA32-268,,[],manage supplies; database; financial management; perform procurement processes; plan,5
+C0475,2,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0475,3,DPSA28-144e,,[],plan,1
+C0476,1,DPSA32-250,,[],communication; apply change management; project commissioning; project management,4
+C0476,2,DPSA30-164,,[],social sciences; public administration,2
+C0476,3,DPSA30-163,,[],office administration; think creatively; public administration; human resource management,4
+C0477,1,DPSA28-142b,,[],report facts,1
+C0477,2,DPSA28-144c,,[],plan,1
+C0477,3,DPSA28-153b,,[],nutrition; logistics,2
+C0478,1,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts; emergency medicine,2
+C0478,2,PNET-0001,,[],report facts,1
+C0478,3,PNET-0005,,[],report facts,1
+C0479,1,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0479,2,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0479,3,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0480,1,DPSA31-221,Valid driver's licence (any code),"[[""LIC_ANY""]]",quality assurance procedures; waste management; financial management; physics; manage resources; manage air quality; oil rig legislation,7
+C0480,2,DPSA36-225,,[],,0
+C0480,3,DPSA38-498,,[],statistics; knowledge management; document management,3
+C0481,1,DPSA36-270d,,[],communication; infection control,2
+C0481,2,DPSA36-271,,[],communication; report facts,2
+C0481,3,DPSA29-247,,[],,0
+C0482,1,DPSA34-235,,[],public administration,1
+C0482,2,DPSA30-179,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",have computer literacy,1
+C0482,3,DPSA34-236,,[],public administration,1
+C0483,1,DPSA30-180,,[],social sciences; public administration,2
+C0483,2,DPSA31-231,,[],project commissioning; project management; market analysis; report facts,4
+C0483,3,DPSA28-144e,,[],plan,1
+C0484,1,DPSA31-236,,[],communication; office administration; have computer literacy,3
+C0484,2,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0484,3,DPSA30-189,,[],communication; report facts; have computer literacy,3
+C0485,1,DPSA36-229,,[],,0
+C0485,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0485,3,DPSA36-235,,[],civil engineering,1
+C0486,1,PNET-0006,National Diploma / NQF 6 qualification | Clinical Practice Guidelines (CPG) certificate,"[[""DIPLOMA""], [""EMS_CPG""]]",report facts; emergency medicine,2
+C0486,2,PNET-0001,Clinical Practice Guidelines (CPG) certificate,"[[""EMS_CPG""]]",report facts,1
+C0486,3,DPSA38-522a,,[],quality standards,1
+C0487,1,DPSA28-144b,,[],plan,1
+C0487,2,DPSA28-123,,[],financial forecasting; accounting,2
+C0487,3,DPSA28-154c,,[],process payments,1
+C0488,1,DPSA36-270b,,[],communication; infection control,2
+C0488,2,DPSA31-243,,[],cleaning products; handle chemicals; perform cleaning duties; report facts; cleaning techniques; make reservations,6
+C0488,3,DPSA31-244,,[],cleaning products; perform cleaning duties; iron textiles; maintain linen operation; make reservations,5
+C0489,1,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0489,2,PNET-0057,,[],chemical products; troubleshoot; food science,3
+C0489,3,DPSA36-270d,,[],communication; infection control,2
+C0490,1,DPSA32-268,,[],manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0490,2,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0490,3,DPSA28-144e,,[],plan,1
+C0491,1,DPSA36-228,,[],property law,1
+C0491,2,DPSA36-240,,[],,0
+C0491,3,DPSA36-234,,[],civil engineering,1
+C0492,1,PNET-0028,,[],communication; civil engineering; rehabilitation; rainwater management,4
+C0492,2,DPSA38-513,,[],project commissioning; project management; mechanical engineering,3
+C0492,3,DPSA38-505,,[],electrical engineering,1
+C0493,1,DPSA36-271,,[],communication; report facts,2
+C0493,2,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0493,3,DPSA36-270d,,[],communication; infection control,2
+C0494,1,DPSA36-225,,[],,0
+C0494,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0494,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0495,1,DPSA36-226,,[],,0
+C0495,2,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0495,3,DPSA36-238,,[],electrical engineering; civil engineering,2
+C0496,1,DPSA31-234b,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",troubleshoot; report facts; computer technology,3
+C0496,2,DPSA31-233,,[],project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0496,3,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0497,1,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0497,2,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0497,3,DPSA29-245,,[],financial management; logistics,2
+C0498,1,DPSA36-225,,[],,0
+C0498,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0498,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0499,1,DPSA38-499,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""PS_NYUKELA""]]",,0
+C0499,2,DPSA36-255,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage staff; financial management; supervise crew; supervise staff; accounting,5
+C0499,3,DPSA38-497,Bachelor's degree / NQF 7,"[[""DEGREE""]]",community medicine; manage resources; public health; primary care,4
+C0500,1,DPSA34-233,,[],,0
+C0500,2,DPSA29-228,,[],financial management; statistics; accounting,3
+C0500,3,DPSA29-239,,[],communication; financial management; report facts; capacity building; plan,5
+C0501,1,DPSA28-153a,,[],nutrition; logistics,2
+C0501,2,DPSA28-142c,,[],report facts,1
+C0501,3,DPSA30-182,,[],health and safety in the workplace; journalism; supervise crew; supervise staff,4
+C0502,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0502,2,DPSA36-229,,[],,0
+C0502,3,DPSA28-142a,,[],report facts,1
+C0503,1,DPSA31-237,,[],communication; office administration,2
+C0503,2,DPSA36-267,SACSSP registration (social work),"[[""REG_SACSSP""]]",morality; financial capability; ethics,3
+C0503,3,DPSA36-261d,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; sociology; demography; have computer literacy; assist community,8
+C0504,1,DPSA31-237,,[],communication; office administration,2
+C0504,2,DPSA34-240,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0504,3,DPSA36-266,,[],communication; have computer literacy,2
+C0505,1,DPSA36-227,,[],,0
+C0505,2,DPSA36-239,,[],civil engineering,1
+C0505,3,DPSA36-233,,[],civil engineering; mechanical engineering,2
+C0506,1,DPSA28-128,Valid driver's licence (any code),"[[""LIC_ANY""]]",statistics; public administration,2
+C0506,2,DPSA38-527a,,[],supervise staff; public administration; human resource management,3
+C0506,3,DPSA32-257,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial management; document management,3
+C0507,1,DPSA28-144e,,[],plan,1
+C0507,2,DPSA28-125,,[],,0
+C0507,3,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0508,1,DPSA36-225,,[],,0
+C0508,2,DPSA31-237,,[],communication; office administration,2
+C0508,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0509,1,PNET-0001,Clinical Practice Guidelines (CPG) certificate,"[[""EMS_CPG""]]",report facts,1
+C0509,2,PNET-0005,Clinical Practice Guidelines (CPG) certificate,"[[""EMS_CPG""]]",report facts,1
+C0509,3,DPSA38-522a,,[],quality standards,1
+C0510,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0510,2,DPSA30-187,,[],financial management; have computer literacy,2
+C0510,3,DPSA30-200,,[],social sciences; report facts; logistics,3
+C0511,1,DPSA36-269,,[],patents; communication; knowledge management; transfer patients,4
+C0511,2,DPSA29-247,,[],,0
+C0511,3,DPSA38-519c,Basic nursing qualification (R425),"[[""NURSE_R425""]]",quality standards; medical oncology; psychiatry,3
+C0512,1,DPSA38-508a,,[],financial management; economics; accounting,3
+C0512,2,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0512,3,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0513,1,DPSA29-242,,[],financial management; report facts; have computer literacy; accounting,4
+C0513,2,DPSA29-241,,[],financial management; report facts; have computer literacy; accounting,4
+C0513,3,DPSA29-230,,[],financial management; report facts; accounting,3
+C0514,1,DPSA36-263,,[],customer service; communication; receive goods; financial management; document management; accounting,6
+C0514,2,DPSA36-254b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; supervise crew; supervise staff; report facts; human resource management,5
+C0514,3,PNET-0075,Trade test certificate (artisan),"[[""TRADE_TEST""]]",quality assurance procedures; electricity principles; manufacturing plant equipment,3
+C0515,1,DPSA31-227,,[],communication; entrepreneurship,2
+C0515,2,DPSA30-189,,[],communication; report facts,2
+C0515,3,DPSA30-192c,,[],economics; conflict management; issue permits; logistics,4
+C0516,1,DPSA36-270c,,[],communication; infection control,2
+C0516,2,DPSA36-270d,,[],communication; infection control,2
+C0516,3,DPSA29-247,,[],,0
+C0517,1,DPSA31-220d,,[],maintain freelance database; communication; conflict management; report facts; have computer literacy,5
+C0517,2,DPSA36-268a,,[],customer service; communication,2
+C0517,3,DPSA36-267,,[],morality; financial capability; ethics,3
+C0518,1,DPSA38-519c,,[],quality standards; medical oncology; psychiatry,3
+C0518,2,DPSA38-518c,,[],,0
+C0518,3,DPSA38-519d,,[],quality standards; medical oncology; psychiatry,3
+C0519,1,DPSA28-142a,,[],report facts,1
+C0519,2,DPSA31-232,,[],customer service; project commissioning; project management; report facts; guide staff; make reservations,6
+C0519,3,DPSA28-144d,,[],plan,1
+C0520,1,PNET-0025,,[],,0
+C0520,2,DPSA38-501b,,[],surgery; neonatology; paediatrics; supervise staff; general surgery,5
+C0520,3,DPSA38-526a,,[],,0
+C0521,1,DPSA28-138a,,[],financial management; report facts; accounting,3
+C0521,2,DPSA28-138b,,[],financial management; report facts; accounting,3
+C0521,3,DPSA28-142c,,[],report facts,1
+C0522,1,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0522,2,DPSA36-262,,[],communication; project commissioning; social development; project management; legal research; have computer literacy,6
+C0522,3,DPSA30-189,,[],communication; report facts; have computer literacy,3
+C0523,1,DPSA31-237,,[],communication; office administration,2
+C0523,2,PNET-0060,,[],use earth sciences tools; surveying; surveying methods; plan,4
+C0523,3,DPSA36-227,,[],,0
+C0524,1,DPSA28-136c,,[],safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0524,2,DPSA28-136d,,[],safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0524,3,DPSA28-136a,,[],safety engineering; risk management; internal auditing; occupational health; first response; first aid,6
+C0525,1,DPSA36-269,,[],patents; communication; knowledge management; transfer patients; have computer literacy,5
+C0525,2,DPSA38-519e,,[],quality standards; medical oncology; psychiatry,3
+C0525,3,DPSA38-519d,,[],quality standards; medical oncology; psychiatry,3
+C0526,1,PNET-0001,EMS qualification (BLS / ILS / ALS),"[[""EMS_QUAL""]]",report facts,1
+C0526,2,PNET-0006,National Diploma / NQF 6 qualification | EMS qualification (BLS / ILS / ALS),"[[""DIPLOMA""], [""EMS_QUAL""]]",report facts; emergency medicine,2
+C0526,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0527,1,PNET-0006,,[],report facts; emergency medicine,2
+C0527,2,PNET-0001,,[],report facts,1
+C0527,3,PNET-0005,,[],report facts,1
+C0528,1,DPSA36-225,,[],,0
+C0528,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0528,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0529,1,DPSA36-229,,[],,0
+C0529,2,DPSA36-235,,[],civil engineering,1
+C0529,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0530,1,DPSA30-177,,[],JavaScript; ASP.NET; computer science; cyber security,4
+C0530,2,DPSA30-202,,[],have computer literacy; public administration,2
+C0530,3,DPSA36-261d,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; have computer literacy,9
+C0531,1,DPSA36-264,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; financial management; statistics; report facts; have computer literacy,5
+C0531,2,DPSA38-497,Bachelor's degree / NQF 7,"[[""DEGREE""]]",community medicine; manage resources; public health; primary care,4
+C0531,3,DPSA38-499,Bachelor's degree / NQF 7 | SMS Pre-Entry (Nyukela) certificate,"[[""DEGREE""], [""PS_NYUKELA""]]",,0
+C0532,1,DPSA28-124b,,[],manage supplies; financial management; analyse supply chain strategies; asset management,4
+C0532,2,DPSA36-255,,[],financial management; supervise crew; supervise staff; accounting,4
+C0532,3,DPSA36-254a,,[],communication; supervise crew; supervise staff; report facts; human resource management,5
+C0533,1,DPSA32-270,,[],financial management; conflict management; public administration; logistics,4
+C0533,2,DPSA28-116e,,[],,0
+C0533,3,DPSA28-116d,,[],,0
+C0534,1,DPSA28-113,,[],,0
+C0534,2,DPSA31-221,,[],quality assurance procedures; waste management; financial management; physics; environmental legislation; manage resources; manage air quality; oil rig legislation,8
+C0534,3,DPSA30-164,,[],social sciences; public administration,2
+C0535,1,DPSA29-240,,[],communication; financial management; capacity building,3
+C0535,2,DPSA36-228,,[],property law,1
+C0535,3,DPSA28-154a,,[],financial management; process payments,2
+C0536,1,DPSA38-497,,[],community medicine; manage resources; public health; primary care,4
+C0536,2,DPSA38-499,SMS Pre-Entry (Nyukela) certificate,"[[""PS_NYUKELA""]]",,0
+C0536,3,DPSA36-228,,[],property law,1
+C0537,1,DPSA31-237,,[],communication; office administration,2
+C0537,2,DPSA36-225,,[],,0
+C0537,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0538,1,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0538,2,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0538,3,DPSA28-144e,,[],plan,1
+C0539,1,PNET-0075,,[],quality assurance procedures; electricity principles; have computer literacy; manufacturing plant equipment,4
+C0539,2,PNET-0033,,[],join metals; operate welding equipment; mechanical systems,3
+C0539,3,PNET-0071,Valid driver's licence (any code),"[[""LIC_ANY""]]",mathematics; manufacturing plant equipment; logistics,3
+C0540,1,DPSA36-266,,[],communication; have computer literacy,2
+C0540,2,PNET-0040,,[],communication; manage quality; packaging engineering; plan,4
+C0540,3,DPSA31-237,,[],communication; office administration,2
+C0541,1,DPSA28-121,,[],public administration,1
+C0541,2,DPSA28-149,,[],public administration,1
+C0541,3,DPSA29-231,,[],public finance; database; financial management; capacity building,4
+C0542,1,DPSA28-137a,,[],financial management; report facts,2
+C0542,2,DPSA28-138a,,[],financial statements; financial management; report facts,3
+C0542,3,DPSA28-142c,,[],report facts,1
+C0543,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0543,2,DPSA29-239,,[],communication; financial management; report facts; capacity building; plan,5
+C0543,3,DPSA32-264,SACPCMP registration (construction PM),"[[""REG_SACPCMP""]]",project commissioning; financial management; project management,3
+C0544,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0544,2,DPSA36-257b,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0544,3,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0545,1,DPSA36-263,,[],customer service; communication; receive goods; financial management; have computer literacy; document management; accounting,7
+C0545,2,DPSA36-270d,,[],communication; infection control,2
+C0545,3,DPSA36-271,,[],communication; report facts,2
+C0546,1,DPSA36-270b,,[],communication; infection control,2
+C0546,2,DPSA31-244,,[],cleaning products; iron textiles; maintain linen operation; make reservations,4
+C0546,3,DPSA36-270a,,[],communication; infection control,2
+C0547,1,DPSA32-269,,[],manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0547,2,DPSA36-257b,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0547,3,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0548,1,DPSA38-527b,,[],supervise staff; public administration,2
+C0548,2,DPSA38-520a,,[],,0
+C0548,3,DPSA36-228,,[],property law,1
+C0549,1,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0549,2,DPSA36-229,,[],,0
+C0549,3,DPSA36-235,,[],civil engineering,1
+C0550,1,DPSA38-526a,,[],,0
+C0550,2,DPSA38-526b,,[],,0
+C0550,3,DPSA38-501a,,[],surgery; neonatology; paediatrics; supervise staff; general surgery,5
+C0551,1,DPSA36-225,,[],,0
+C0551,2,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0551,3,DPSA36-231,,[],civil engineering; mechanical engineering,2
+C0552,1,DPSA36-261b,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; assist community,8
+C0552,2,DPSA36-264,,[],communication; financial management; statistics; report facts,4
+C0552,3,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; demography; assist community,8
+C0553,1,DPSA38-501b,,[],surgery; neonatology; supervise staff; general surgery,4
+C0553,2,DPSA38-501a,,[],surgery; neonatology; supervise staff; general surgery,4
+C0553,3,DPSA38-526a,,[],,0
+C0554,1,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0554,2,DPSA36-254b,,[],communication; manage staff; supervise crew; supervise staff; report facts; have computer literacy; human resource management,7
+C0554,3,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0555,1,DPSA29-247,,[],,0
+C0555,2,DPSA36-270b,,[],communication; infection control,2
+C0555,3,DPSA36-270a,,[],communication; infection control,2
+C0556,1,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0556,2,DPSA38-516b,,[],primary care,1
+C0556,3,DPSA38-519b,SANC registration (nursing),"[[""REG_SANC""]]",quality standards; medical oncology; psychiatry,3
+C0557,1,DPSA31-234b,,[],cyber security; report facts; computer technology,3
+C0557,2,DPSA28-142a,,[],report facts,1
+C0557,3,DPSA28-150e,,[],computer science; think creatively,2
+C0558,1,PNET-0016,,[],troubleshoot; root cause analysis; lead others,3
+C0558,2,DPSA29-247,,[],,0
+C0558,3,DPSA36-270a,,[],communication; infection control,2
+C0559,1,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0559,2,DPSA31-237,,[],communication; office administration,2
+C0559,3,DPSA36-225,,[],,0
+C0560,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0560,2,DPSA32-261,,[],project commissioning; physics; project management; statistics; write technical reports; report facts,6
+C0560,3,DPSA36-246,,[],customer service; communication; health and safety in the workplace; office administration; coordinate catering; conflict management; report facts; public administration,11
+C0561,1,DPSA28-142a,,[],report facts,1
+C0561,2,DPSA30-198b,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0561,3,DPSA28-153c,,[],nutrition; logistics,2
+C0562,1,DPSA34-233,,[],,0
+C0562,2,DPSA28-142c,,[],report facts,1
+C0562,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0563,1,DPSA28-142c,,[],report facts,1
+C0563,2,DPSA28-153a,,[],nutrition; logistics,2
+C0563,3,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0564,1,DPSA32-260,,[],communication; financial statements; financial management; asset management; logistics; accounting,6
+C0564,2,DPSA36-227,,[],,0
+C0564,3,DPSA28-142d,,[],report facts,1
+C0565,1,DPSA38-510,,[],knowledge management; public administration; human resource management,3
+C0565,2,PNET-0069,,[],communication; database; office administration,3
+C0565,3,DPSA38-527a,,[],supervise staff; public administration; human resource management,3
+C0566,1,PNET-0001,,[],report facts,1
+C0566,2,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts; emergency medicine,2
+C0566,3,PNET-0005,,[],report facts,1
+C0567,1,DPSA36-245,,[],communication; project commissioning; financial management; project management; sociology; conflict management; demography; plan,8
+C0567,2,DPSA36-261e,,[],communication; project commissioning; financial management; project management; sociology; demography; assist community,7
+C0567,3,DPSA30-198a,,[],criminology; provide information; report facts; public administration,4
+C0568,1,DPSA28-150b,National Diploma / NQF 6 qualification | Valid driver's licence (any code),"[[""DIPLOMA""], [""LIC_ANY""]]",computer science; think creatively,2
+C0568,2,DPSA29-247,,[],,0
+C0568,3,DPSA36-270d,,[],communication; infection control,2
+C0569,1,DPSA38-518b,,[],,0
+C0569,2,DPSA38-516e,,[],primary care,1
+C0569,3,DPSA38-519e,,[],quality standards; medical oncology; psychiatry,3
+C0570,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0570,2,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0570,3,DPSA30-202,,[],have computer literacy; public administration,2
+C0571,1,DPSA36-257b,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0571,2,DPSA32-269,Valid driver's licence (any code),"[[""LIC_ANY""]]",manage supplies; analyse supply chain strategies; asset management; logistics; supply chain management,5
+C0571,3,DPSA31-233,Valid driver's licence (any code),"[[""LIC_ANY""]]",project commissioning; environmental legislation; project management; statistics; report facts; oil rig legislation,6
+C0572,1,DPSA31-220a,,[],maintain freelance database; communication; conflict management; report facts; have computer literacy,5
+C0572,2,DPSA28-120a,,[],report facts; capacity building,2
+C0572,3,DPSA36-268a,,[],communication,1
+C0573,1,DPSA36-229,,[],,0
+C0573,2,DPSA36-235,,[],civil engineering,1
+C0573,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0574,1,DPSA28-145b,,[],risk management; manage closed-circuit television system; have computer literacy,3
+C0574,2,DPSA28-145a,,[],risk management; manage closed-circuit television system; have computer literacy,3
+C0574,3,DPSA31-229,,[],manage resources; public administration; human resource management,3
+C0575,1,DPSA36-265,,[],customer service; communication; report facts,3
+C0575,2,DPSA36-269,,[],patents; communication; knowledge management; transfer patients,4
+C0575,3,DPSA36-266,,[],communication,1
+C0576,1,DPSA36-266,,[],communication; have computer literacy,2
+C0576,2,DPSA31-237,,[],communication; office administration,2
+C0576,3,DPSA38-500,,[],electrical engineering,1
+C0577,1,DPSA38-522a,,[],quality standards,1
+C0577,2,PNET-0006,National Diploma / NQF 6 qualification | Clinical Practice Guidelines (CPG) certificate,"[[""DIPLOMA""], [""EMS_CPG""]]",report facts,1
+C0577,3,PNET-0001,Clinical Practice Guidelines (CPG) certificate,"[[""EMS_CPG""]]",report facts,1
+C0578,1,DPSA38-517,,[],project commissioning; project management; mechanical engineering; instrumentation engineering; control engineering,5
+C0578,2,DPSA36-225,,[],,0
+C0578,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0579,1,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0579,2,DPSA34-233,,[],,0
+C0579,3,DPSA29-239,,[],communication; financial management; report facts; capacity building; plan,5
+C0580,1,DPSA34-240,,[],manage supplies; database; economics; analyse supply chain strategies; plan; supply chain management,6
+C0580,2,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0580,3,DPSA36-246,,[],customer service; communication; health and safety in the workplace; office administration; coordinate catering; conflict management; report facts; public administration,11
+C0581,1,DPSA36-259,,[],communication; report facts; public administration; logistics,4
+C0581,2,DPSA36-246,,[],communication; health and safety in the workplace; office administration; coordinate catering; conflict management; report facts; public administration; occupational health,10
+C0581,3,DPSA30-195,,[],criminology; social sciences; public administration,3
+C0582,1,DPSA36-260,,[],database; financial management; perform procurement processes; capacity building; logistics,5
+C0582,2,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0582,3,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0583,1,DPSA29-247,,[],,0
+C0583,2,DPSA36-271,,[],communication; report facts,2
+C0583,3,DPSA36-270b,,[],communication; infection control,2
+C0584,1,DPSA36-257c,,[],communication; project commissioning; financial management; project management; process payments; report facts; accounting,7
+C0584,2,DPSA36-265,,[],customer service; communication; report facts; have computer literacy,4
+C0584,3,DPSA34-243,,[],communication; statistics,2
+C0585,1,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts,1
+C0585,2,PNET-0001,,[],report facts,1
+C0585,3,PNET-0005,,[],report facts,1
+C0586,1,DPSA38-510,,[],labour legislation; knowledge management; public administration; human resource management,4
+C0586,2,PNET-0069,,[],communication; database; office administration; talent management strategies,4
+C0586,3,DPSA31-237,,[],communication; office administration,2
+C0587,1,DPSA36-229,,[],,0
+C0587,2,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0587,3,PNET-0012,,[],communication; troubleshoot; project commissioning; lead others; customer relationship management; marketing principles,6
+C0588,1,DPSA38-500,,[],electrical engineering,1
+C0588,2,DPSA31-237,,[],communication; office administration,2
+C0588,3,DPSA36-266,,[],communication; have computer literacy,2
+C0589,1,DPSA36-261c,,[],communication; project commissioning; social sciences; financial management; project management; sociology; assist community,7
+C0589,2,DPSA30-183b,,[],law enforcement; lead others; manage resources; logistics,4
+C0589,3,DPSA32-268,,[],manage supplies; database; financial management; analyse supply chain strategies; perform procurement processes; plan; supply chain management,7
+C0590,1,DPSA36-229,,[],,0
+C0590,2,DPSA36-235,,[],civil engineering,1
+C0590,3,DPSA36-241,,[],surveying; electrical engineering; quantity surveying,3
+C0591,1,DPSA28-142d,,[],report facts,1
+C0591,2,DPSA28-144b,,[],plan,1
+C0591,3,DPSA28-152a,,[],packaging engineering; logistics,2
+C0592,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0592,2,DPSA28-142c,,[],report facts,1
+C0592,3,DPSA28-153a,,[],nutrition; logistics,2
+C0593,1,DPSA36-261c,,[],communication; project commissioning; financial management; project management; sociology; demography; have computer literacy; assist community,8
+C0593,2,DPSA36-250,,[],project commissioning; financial management; project management; sociology; conflict management; report facts; demography; have computer literacy,8
+C0593,3,DPSA36-261b,,[],communication; project commissioning; financial management; project management; sociology; demography; have computer literacy; assist community,8
+C0594,1,DPSA36-225,,[],,0
+C0594,2,DPSA38-500,,[],electrical engineering,1
+C0594,3,DPSA36-237,,[],electrical engineering; civil engineering,2
+C0595,1,DPSA31-240,Valid driver's licence (any code),"[[""LIC_ANY""]]",communication; law enforcement; make reservations,3
+C0595,2,DPSA36-266,,[],communication; have computer literacy,2
+C0595,3,DPSA31-237,,[],communication; office administration,2
+C0596,1,DPSA30-198a,,[],criminology; social sciences; provide information; report facts; public administration,5
+C0596,2,DPSA30-197a,,[],criminology; customer service; social sciences; report facts; public administration,5
+C0596,3,DPSA30-165,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",logistics,1
+C0597,1,PNET-0001,,[],report facts,1
+C0597,2,PNET-0006,National Diploma / NQF 6 qualification,"[[""DIPLOMA""]]",report facts; emergency medicine,2
+C0597,3,PNET-0005,,[],report facts,1
+C0598,1,DPSA36-271,,[],communication; report facts,2
+C0598,2,DPSA36-270d,,[],communication; infection control,2
+C0598,3,DPSA29-247,,[],,0
+C0599,1,DPSA36-259,,[],customer service; report facts; public administration; logistics,4
+C0599,2,DPSA31-227,,[],entrepreneurship; have computer literacy,2
+C0599,3,DPSA28-142c,,[],report facts,1
+C0600,1,DPSA36-259,,[],customer service; communication; report facts; public administration; logistics,5
+C0600,2,DPSA30-182,,[],health and safety in the workplace; journalism; manage staff; supervise staff,4
+C0600,3,DPSA30-200,,[],social sciences; report facts; logistics,3

@@ -1,0 +1,27 @@
+requirement_id,satisfied_by_id,condition,verified,source,notes
+GR12,NCV_L4,,1,https://falsebaycollege.co.za/resources/qualification-definitions/,NC(V) Level 4 is equivalent to matric
+GR12,N3,Technical and trade roles,0,Limpopo job adverts in this dataset,Mining trade ads accept 'Grade 12 or N3 trade subjects'
+BASIC_ED,GR12,,1,,Higher school level satisfies lower
+BASIC_ED,NCV_L2,,0,,To verify
+NCV_L3,NCV_L4,,1,,Ladder
+NCV_L2,NCV_L3,,1,,Ladder
+N1,N2,,1,,Ladder
+N2,N3,,1,,Ladder
+N3,N4,,1,,Ladder
+N4,N5,,1,,Ladder
+N5,N6,,1,,Ladder
+N6,NDIP_N,,1,https://falsebaycollege.co.za/resources/qualification-definitions/,Diploma requires N6
+NDIP_N,N6,N6 plus 18 months relevant work experience (business studies),1,https://falsebaycollege.co.za/resources/qualification-definitions/,Experience rule for engineering to verify with DHET
+DIPLOMA,NDIP_N,,0,,National N Diploma treated as an NQF 6 diploma; verify with SAQA/DHET
+HIGHER_CERT,DIPLOMA,,1,,Higher NQF satisfies lower
+DIPLOMA,DEGREE,,1,,Higher NQF satisfies lower
+DEGREE,HONOURS,,1,,Higher NQF satisfies lower
+GR12,HIGHER_CERT,,1,,Post-school qualification implies school exit level
+GR12,TRADE_TEST,Trade roles,0,,To verify; artisans usually hold N2/N3 or Grade 12
+LIC_B,LIC_C1,,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,C1 covers B
+LIC_C1,LIC_C,,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,C covers C1
+LIC_B,LIC_EB,,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,EB covers B
+LIC_EB,LIC_EC,,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,EC covers EB
+LIC_C,LIC_EC,,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,EC covers C
+LIC_ANY,LIC_B,,1,,Any code satisfies 'valid driver's licence'
+MIN_COMPETENT,MIN_SUPERVISOR,,0,,To verify

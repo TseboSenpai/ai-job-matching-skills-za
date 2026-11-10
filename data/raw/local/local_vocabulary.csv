@@ -1,0 +1,86 @@
+id,label,kind,category,nqf_level,aliases,case_sensitive,verified,source,notes
+BASIC_ED,Grade 10 / Junior Certificate / ABET,credential,school,1-3,Grade 10;Grade 8;Grade 9;Junior Certificate;Standard 8;Std 8;ABET;AET;Adult Education and Training,0,1,,Entry requirement for many elementary posts
+GR12,Grade 12 / Matric (National Senior Certificate),credential,school,4,Grade 12;Gr 12;Matric;Matriculation;National Senior Certificate;Senior Certificate;Standard 10;Std 10;re:\bNSC\b,0,1,,
+NCV_L2,NC(V) Level 2,credential,tvet,2,re:NC\s?\(V\)\s*(Level|L)\s*2;re:NCV\s*(Level|L)\s*2,0,1,https://falsebaycollege.co.za/resources/qualification-definitions/,
+NCV_L3,NC(V) Level 3,credential,tvet,3,re:NC\s?\(V\)\s*(Level|L)\s*3;re:NCV\s*(Level|L)\s*3,0,1,https://falsebaycollege.co.za/resources/qualification-definitions/,
+NCV_L4,NC(V) Level 4,credential,tvet,4,re:NC\s?\(V\)\s*(Level|L)\s*4;re:NCV\s*(Level|L)\s*4;National Certificate (Vocational),0,1,https://falsebaycollege.co.za/resources/qualification-definitions/,Equivalent to matric
+N1,N1 certificate,credential,tvet,1,re:\bN1\b,1,0,,NQF level to verify
+N2,N2 certificate,credential,tvet,2,re:\bN2\b,1,0,,NQF level to verify
+N3,N3 certificate,credential,tvet,4,re:\bN3\b,1,0,,Often accepted with trade subjects instead of Grade 12; NQF level to verify
+N4,N4 certificate,credential,tvet,5,re:\bN4\b,1,0,,NQF level to verify
+N5,N5 certificate,credential,tvet,5,re:\bN5\b,1,0,,NQF level to verify
+N6,N6 certificate,credential,tvet,5,re:\bN6\b,1,0,,NQF level to verify
+NDIP_N,National N Diploma,credential,tvet,6,National N Diploma;N Diploma,0,1,https://falsebaycollege.co.za/resources/qualification-definitions/,N4-N6 plus workplace experience (18 months for business studies)
+HIGHER_CERT,Higher Certificate,credential,higher,5,Higher Certificate;NQF 5;NQF level 5;NQF Level 5,0,1,,
+DIPLOMA,National Diploma / NQF 6 qualification,credential,higher,6,National Diploma;re:(?<!N )(?<![A-Za-z])Diploma\b;re:\bN\.?\s?Dip\b(?!loma);Advanced Certificate;NQF 6;NQF level 6;NQF Level 6;re:\bNQF6\b,0,1,,Public service ads usually say 'NQF 6 qualification'
+DEGREE,Bachelor's degree / NQF 7,credential,higher,7,Degree;Bachelor;Bachelor's degree;BTech;B-Tech;B.Tech;BEng;B Eng;BSc;B.Com;BCom;LLB;B.Proc;NQF 7;NQF level 7;NQF Level 7,0,1,,
+HONOURS,Honours / postgraduate (NQF 8),credential,higher,8,Honours;Postgraduate;Post-graduate;NQF 8;NQF level 8,0,1,,
+TRADE_TEST,Trade test certificate (artisan),credential,trade,4,Trade test;Trade-tested;Trade tested;Red Seal;Section 13;Section 26D;re:\b26D\b;Artisan qualification;Trade certificate;Trade qualification;Completed apprenticeship,0,0,Limpopo job adverts in this dataset,QCTO trade certificate; NQF level to verify
+LEARNERSHIP,Learnership,credential,occupational,,Learnership;Learnerships,0,1,,
+SETA_CERT,SETA-accredited certificate,credential,occupational,,SETA;MQA;QCTO;ETDP SETA,1,1,,Accrediting bodies mentioned in ads
+ASSESSOR,Assessor / moderator certificate,credential,occupational,,Assessor;Moderator;ETDP,0,1,Limpopo job adverts in this dataset,
+LIC_ANY,Valid driver's licence (any code),credential,licence,,Driver's licence;Drivers licence;Driver's license;Drivers license;Driving licence;re:driver['’]s\s+licen[cs]e,0,1,,
+LIC_B,Code B (old Code 08),credential,licence,,Code 08;Code 8;Code B;re:\bCode\s*0?8\b,0,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,Light vehicles
+LIC_EB,Code EB,credential,licence,,Code EB;re:Code\s*B\s*/\s*EB,0,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,Covers B
+LIC_C1,Code C1 (old Code 10),credential,licence,,Code 10;Code C1,0,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,Covers B
+LIC_C,Code C,credential,licence,,re:\bCode\s*C\b(?!1),0,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,Covers C1 and B
+LIC_EC,Code EC (old Code 14),credential,licence,,Code 14;Code EC;re:\bCode\s*EC1\b,0,1,https://en.wikipedia.org/wiki/Driving_licence_in_South_Africa,Covers all lower codes
+PRDP,Professional Driving Permit (PrDP),credential,licence,,PrDP;PDP;Professional Driving Permit,1,1,,
+REG_HPCSA,HPCSA registration,credential,registration,,HPCSA;Health Professions Council,0,1,,"Doctors, therapists, EMS, psychologists"
+REG_SANC,SANC registration (nursing),credential,registration,,SANC;South African Nursing Council,0,1,,
+REG_SACSSP,SACSSP registration (social work),credential,registration,,SACSSP,0,1,,
+REG_SAPC,SAPC registration (pharmacy),credential,registration,,SAPC,1,1,,
+REG_ECSA,ECSA registration (engineering),credential,registration,,ECSA;Engineering Council;Pr Eng;Professional Engineer;Pr Tech,0,1,,
+REG_SACPCMP,SACPCMP registration (construction PM),credential,registration,,SACPCMP,0,1,,
+REG_SACQSP,SACQSP registration (quantity surveying),credential,registration,,SACQSP,0,1,,
+REG_SACAP,SACAP registration (architecture),credential,registration,,SACAP,0,1,,
+REG_SACE,SACE registration (educators),credential,registration,,SACE,1,1,,
+REG_PSIRA,PSIRA registration (security),credential,registration,,PSIRA,0,1,,
+REG_EAPASA,EAPASA registration (environmental),credential,registration,,EAPASA,0,1,,
+REG_SAIOSH,SAIOSH registration (safety),credential,registration,,SAIOSH,0,1,,
+REG_CA,CA(SA) / SAICA / SAIPA / CIMA,credential,registration,,CA(SA);SAICA;SAIPA;CIMA,1,1,,
+REG_RE5,RE5 (financial services),credential,registration,,re:\bRE5\b,1,1,,
+MIN_BLASTING,Blasting certificate,credential,mining,,Blasting certificate;Blasting Certificate,0,1,,
+MIN_COMPETENT,Competent A / B certificate,credential,mining,,re:Competent\s+[AB]\b;re:Competent\s+A\s+and\s+B,0,1,,
+MIN_MANAGER,Mine Manager's Certificate of Competency,credential,mining,,re:Mine\s+Manager['’]?s\s+certificate,0,1,,
+MIN_SUPERVISOR,Production Supervisor Certificate of Competence,credential,mining,,Production Supervisor Certificate,0,1,,
+MIN_GCC,Government Certificate of Competency (GCC),credential,mining,,"Government Certificate of Competency;re:\bGCC\b(?!,?\s*FIDIC)",1,1,,Excludes 'GCC' meaning General Conditions of Contract
+MIN_FITNESS,Medical Certificate of Fitness,credential,mining,,Certificate of Fitness;Medical certificate;Medically fit,0,1,,
+MIN_VALUATION,Valuation certificate (COM),credential,mining,,Valuation Certificate;valuation certificate;Elementary Valuation;Basic Valuation;advanced valuation,0,1,,
+MIN_VENT,Mine Environmental Control certificate,credential,mining,,Mine Environmental Control,0,1,,
+MIN_MHSA_APPT,MHSA / OHS Act legal appointment,credential,mining,,legal appointment;re:Section\s*8\(2\)\(1\);GMR 2.1,0,1,,
+SAF_FIRSTAID,First Aid certificate,credential,safety,,First Aid,0,1,,
+SAF_SAMTRAC,SAMTRAC,credential,safety,,SAMTRAC,0,1,,
+SAF_FIREARM,Firearm competency certificate,credential,safety,,Firearm competency;firearm competencies;Firearm Competency,0,1,,
+EMS_QUAL,EMS qualification (BLS / ILS / ALS),credential,health,,re:\bBLS\b;re:\bILS\b;re:\bALS\b;Basic Life Support;Advanced Life Support;Ambulance Emergency Assistant,1,1,,
+EMS_CPG,Clinical Practice Guidelines (CPG) certificate,credential,health,,Clinical Practice Guidelines;re:\bCPG\b,0,1,,
+NURSE_R425,Basic nursing qualification (R425),credential,health,,R425,0,1,,
+PS_NYUKELA,SMS Pre-Entry (Nyukela) certificate,credential,public_service,,Nyukela;SMS Pre-Entry;Pre-Entry certificate,0,1,,
+PS_PERSAL_CERT,PERSAL certificate,credential,public_service,,PERSAL certificate;PERSAL training;introductory PERSAL,0,1,,
+SYS_PERSAL,PERSAL (government payroll/HR system),term,system,,PERSAL,0,1,,
+SYS_BAS,BAS (Basic Accounting System),term,system,,re:\bBAS\b,1,1,,
+SYS_LOGIS,LOGIS (government logistics system),term,system,,LOGIS,0,1,,
+SYS_NATIS,NaTIS (traffic information system),term,system,,NaTIS;NATIS,0,1,,
+SYS_CSD,Central Supplier Database (CSD),term,system,,Central Supplier Database;re:\bCSD\b;e-tender,1,1,,
+SYS_SAP,SAP,term,system,,re:\bSAP\b,1,1,,
+SYS_PASTEL,Pastel accounting,term,system,,Pastel,0,1,,
+SYS_SYSPRO,Syspro ERP,term,system,,Syspro,0,1,,
+SYS_DMS,Dealer management system (Evolve),term,system,,Evolve;dealer management system,0,1,,
+SYS_EMIS,EMIS (education information system),term,system,,EMIS;LURITS,1,1,,
+LAW_PFMA,PFMA,term,legislation,,PFMA;Public Finance Management Act,0,1,,
+LAW_MFMA,MFMA,term,legislation,,MFMA,0,1,,
+LAW_PPPFA,PPPFA / B-BBEE procurement,term,legislation,,PPPFA;B-BBEE;BBBEE;BBBEE Act,0,1,,
+LAW_TREASURY,Treasury Regulations,term,legislation,,Treasury Regulations;Treasury regulations;DORA,0,1,,
+LAW_MHSA,Mine Health and Safety Act,term,legislation,,MHSA;Mine Health and Safety Act;MPRDA,0,1,,
+LAW_OHS,OHS Act / COIDA,term,legislation,,OHS Act;OHSA;Occupational Health and Safety Act;COIDA,0,1,,
+LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)",term,legislation,,LRA;BCEA;Labour Relations Act;Basic Conditions of Employment Act;Employment Equity Act;Skills Development Act,0,1,,
+LAW_POPIA,POPIA / PAIA,term,legislation,,POPIA;PAIA;PAJA,0,1,,
+LAW_NEMA,NEMA (environmental law),term,legislation,,NEMA;EIA Regulations,0,1,,
+LAW_CHILDREN,Children's Act / Older Persons Act,term,legislation,,re:Children['’]s Act;Older Persons Act;Child Justice Act,0,1,,
+LAW_ROAD,Road traffic and transport legislation,term,legislation,,National Road Traffic Act;NRTA;NLTA;National Land Transport Act,0,1,,
+LAW_CONSUMER,Consumer Protection / National Credit Act,term,legislation,,Consumer Protection Act;National Credit Act,0,1,,
+FW_BATHO_PELE,Batho Pele principles,term,framework,,Batho Pele,0,1,,
+FW_PMDS,PMDS (performance management),term,framework,,PMDS,0,1,,
+FW_SIAS,SIAS / White Paper 6 (inclusive education),term,framework,,SIAS;White Paper 6,1,1,,
+FW_ROADSPEC,"Road specifications (COLTO, COTO, TMH)",term,framework,,COLTO;COTO;TMH,1,1,,
+FW_CONTRACTS,"Construction contracts (GCC, FIDIC, NEC)",term,framework,,FIDIC;NEC contract;re:\bNEC\b,1,1,,

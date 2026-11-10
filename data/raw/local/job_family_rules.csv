@@ -1,0 +1,30 @@
+priority,family,title_pattern
+1,SCM,engineering buyer
+2,SALES_RETAIL,project sales specialist
+3,TRADES,diesel mechanic
+4,HR,"human resources provisioning|learnerships, internships"
+5,FINANCE,financial management capacity building
+6,ADMIN,registry|personal assistant|branch coordinator
+7,EMS,paramedic|ambulance|ems station
+8,NURSING,nurs|charge sister
+9,HEALTH,"clinical|pharmacist|physiotherap|occupational therapist|speech therapist|optometrist|radiographer|psychologist|blood bank|district executive manager|tertiary, specialised"
+10,SOCIAL,social work|social auxiliary|child and youth|community development|old age home|employee health|special programmes|gender focal|disability assistant
+11,MINING,\bminer\b|underground mining\)|valuator|grade officer|section surveyor|ventilation|instructor \(mining|plant operator|mine manager|mining \(flotation|tm3 foreman|mining epcm
+12,TRADES,diesel mechanic|millwright|fitter|electrician|welder|cnc|carpentry|panel beating|artisan|instrumentation \(mining|steel and shuttering
+13,AGRICULTURE,avocado|packhouse|agricultur
+14,HOSPITALITY,camp manager|resort|guest services|waitron|room attendant|game farm|tourism
+15,ELEMENTARY,^cleaner$|general worker|photocopy
+16,EDUCATION,lecturer|circuit manager|district director|curriculum|institutional governance|district management|director: mogalakwena|examinations|school nutrition|nsnp|student administration
+17,LEGAL,legal|consumer
+18,ICT,network|lan technician|it programmer|systems analyst|application development|information technology|e-cares|financial systems implementation|telecommunications|data quality|graphic design
+19,ENGINEERING,engineer|quantity surveyor|architect|draughtsman|construction|project manager|site supervisor|shutdown quality|control engineering|infrastructure|property management|graduate internship
+20,SAFETY_SECURITY,security|saps|police|community policing|crime prevention|community safety|occupational health officer
+21,TRANSPORT_REG,traffic|inspector|operating licen|public transport|regulatory entity|natis|conflict management|transport safety|fleet\)?$|departmental fleet|provincial fleet
+22,ENVIRONMENT,environmental|field ranger|disaster
+23,OPERATIONS,production manager|maintenance manager|fleet maintenance
+24,SALES_RETAIL,sales|store manager|clothing retail|retail learnership|banking|dealer|service manager|service admin manager|f&i|vehicle
+25,SCM,supply chain|scm|acquisition|procurement|provisioning|logistic|purchases|stores|asset|buyer|depot
+26,HR,human resource|personnel|hrm clerk|recruitment|conditions of service|skills development|training|organisational development|establishment and hr|hrd|performance management|talent|hris|corporate|labour relations
+27,FINANCE,account|financ|budget|salar|payroll|bookkeep|expenditure|treasury|assurance|audit|risk|systems control|cfo\)?$|revenue|governance|norms and standards
+28,POLICY_PLANNING,strategic planning|planning|trade and investment|economic empowerment|service delivery|events management
+29,ADMIN,administrat|clerk|personal assistant|registry|records|data capturer|office services|executive support|auxiliary|branch coordinator|information management|knowledge

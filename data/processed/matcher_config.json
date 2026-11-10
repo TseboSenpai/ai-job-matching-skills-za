@@ -1,0 +1,21 @@
+{
+  "MODEL_NAME": "all-MiniLM-L6-v2",
+  "LOCATION_PENALTY": 0.5,
+  "CREDENTIAL_FLOOR": 0.5,
+  "W_GRID": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "VALIDATION_SHARE": 0.2,
+  "TOP_K_SAVE": 20,
+  "SEED": 42,
+  "MIN_LABEL_CHARS": 4,
+  "best_w": {
+    "generic": 0.25,
+    "local": 0.25
+  },
+  "semantic_method": "sentence-transformers/all-MiniLM-L6-v2"
+}

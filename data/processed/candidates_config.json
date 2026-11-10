@@ -1,0 +1,21 @@
+{
+  "N_CANDIDATES": 600,
+  "SEED": 42,
+  "SCENARIO_SHARES": {
+    "exact": 0.4,
+    "equivalent": 0.3,
+    "under": 0.3
+  },
+  "MOBILITY_SHARES": {
+    "local": 0.5,
+    "regional": 0.35,
+    "province": 0.15
+  },
+  "P_HOME_IN_SEED_DISTRICT": 0.6,
+  "MIN_JOBS_PER_FAMILY": 3,
+  "SKILLS_ESSENTIAL_SHARE": [
+    0.5,
+    0.9
+  ],
+  "N_NOISE_SKILLS": 2
+}

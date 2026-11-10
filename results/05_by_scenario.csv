@@ -1,0 +1,6 @@
+,generic,generic,local,local
+,NDCG@10,P@10,NDCG@10,P@10
+scenario,,,,
+equivalent,0.255,0.135,0.313,0.187
+exact,0.25,0.126,0.413,0.249
+under,0.221,0.044,0.265,0.104

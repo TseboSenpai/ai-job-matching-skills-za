@@ -1,0 +1,25 @@
+attribute,measure,mode,Female,Male,difference,ratio,18-24,25-34,35-44,45-59,Below matric,Degree or higher,Diploma,Matric / NC(V) L4,TVET or trade,Capricorn,Mopani,Sekhukhune,Vhembe,Waterberg
+gender,hit rate (parity),generic,0.453,0.438,0.015,0.967,,,,,,,,,,,,,,
+gender,opportunity rate (equal opp.),generic,0.184,0.165,0.019,0.896,,,,,,,,,,,,,,
+gender,hit rate (parity),local,0.633,0.689,0.057,0.918,,,,,,,,,,,,,,
+gender,opportunity rate (equal opp.),local,0.331,0.317,0.014,0.958,,,,,,,,,,,,,,
+gender,hit rate (parity),local + re-ranking,0.657,0.698,0.041,0.942,,,,,,,,,,,,,,
+gender,opportunity rate (equal opp.),local + re-ranking,0.348,0.33,0.019,0.946,,,,,,,,,,,,,,
+age_band,hit rate (parity),generic,,,0.093,0.816,0.434,0.439,0.505,0.412,,,,,,,,,,
+age_band,opportunity rate (equal opp.),generic,,,0.026,0.861,0.163,0.184,0.165,0.189,,,,,,,,,,
+age_band,hit rate (parity),local,,,0.102,0.857,0.612,0.656,0.714,0.688,,,,,,,,,,
+age_band,opportunity rate (equal opp.),local,,,0.126,0.684,0.272,0.352,0.301,0.397,,,,,,,,,,
+age_band,hit rate (parity),local + re-ranking,,,0.108,0.853,0.628,0.667,0.736,0.713,,,,,,,,,,
+age_band,opportunity rate (equal opp.),local + re-ranking,,,0.141,0.667,0.282,0.368,0.314,0.422,,,,,,,,,,
+education_level,hit rate (parity),generic,,,0.309,0.498,,,,,0.308,0.614,0.49,0.306,0.417,,,,,
+education_level,opportunity rate (equal opp.),generic,,,0.121,0.556,,,,,0.248,0.187,0.152,0.173,0.273,,,,,
+education_level,hit rate (parity),local,,,0.115,0.846,,,,,0.635,0.646,0.697,0.639,0.75,,,,,
+education_level,opportunity rate (equal opp.),local,,,0.662,0.267,,,,,0.903,0.241,0.271,0.474,0.788,,,,,
+education_level,hit rate (parity),local + re-ranking,,,0.115,0.846,,,,,0.635,0.669,0.697,0.674,0.75,,,,,
+education_level,opportunity rate (equal opp.),local + re-ranking,,,0.642,0.289,,,,,0.903,0.261,0.278,0.501,0.788,,,,,
+home_district,hit rate (parity),generic,,,0.119,0.755,,,,,,,,,,0.483,0.479,0.365,0.471,0.392
+home_district,opportunity rate (equal opp.),generic,,,0.029,0.843,,,,,,,,,,0.182,0.166,0.18,0.153,0.176
+home_district,hit rate (parity),local,,,0.147,0.79,,,,,,,,,,0.7,0.699,0.553,0.691,0.622
+home_district,opportunity rate (equal opp.),local,,,0.087,0.773,,,,,,,,,,0.294,0.318,0.38,0.367,0.341
+home_district,hit rate (parity),local + re-ranking,,,0.124,0.826,,,,,,,,,,0.711,0.712,0.588,0.706,0.635
+home_district,opportunity rate (equal opp.),local + re-ranking,,,0.09,0.776,,,,,,,,,,0.31,0.329,0.4,0.376,0.358

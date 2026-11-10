@@ -1,0 +1,262 @@
+skill_id,skill_name,label,label_type,label_lower,layer,category
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,Grade 10,alternative,grade 10,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,Grade 8,alternative,grade 8,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,Grade 9,alternative,grade 9,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,Junior Certificate,alternative,junior certificate,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,Standard 8,alternative,standard 8,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,Std 8,alternative,std 8,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,ABET,alternative,abet,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,AET,alternative,aet,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,Adult Education and Training,alternative,adult education and training,local,school
+local:BASIC_ED,Grade 10 / Junior Certificate / ABET,Grade 10 / Junior Certificate / ABET,preferred,grade 10 / junior certificate / abet,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),Grade 12,alternative,grade 12,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),Gr 12,alternative,gr 12,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),Matric,alternative,matric,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),Matriculation,alternative,matriculation,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),National Senior Certificate,alternative,national senior certificate,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),Senior Certificate,alternative,senior certificate,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),Standard 10,alternative,standard 10,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),Std 10,alternative,std 10,local,school
+local:GR12,Grade 12 / Matric (National Senior Certificate),Grade 12 / Matric (National Senior Certificate),preferred,grade 12 / matric (national senior certificate),local,school
+local:NCV_L2,NC(V) Level 2,NC(V) Level 2,preferred,nc(v) level 2,local,tvet
+local:NCV_L3,NC(V) Level 3,NC(V) Level 3,preferred,nc(v) level 3,local,tvet
+local:NCV_L4,NC(V) Level 4,National Certificate (Vocational),alternative,national certificate (vocational),local,tvet
+local:NCV_L4,NC(V) Level 4,NC(V) Level 4,preferred,nc(v) level 4,local,tvet
+local:N1,N1 certificate,N1 certificate,preferred,n1 certificate,local,tvet
+local:N2,N2 certificate,N2 certificate,preferred,n2 certificate,local,tvet
+local:N3,N3 certificate,N3 certificate,preferred,n3 certificate,local,tvet
+local:N4,N4 certificate,N4 certificate,preferred,n4 certificate,local,tvet
+local:N5,N5 certificate,N5 certificate,preferred,n5 certificate,local,tvet
+local:N6,N6 certificate,N6 certificate,preferred,n6 certificate,local,tvet
+local:NDIP_N,National N Diploma,National N Diploma,alternative,national n diploma,local,tvet
+local:NDIP_N,National N Diploma,N Diploma,alternative,n diploma,local,tvet
+local:HIGHER_CERT,Higher Certificate,Higher Certificate,alternative,higher certificate,local,higher
+local:HIGHER_CERT,Higher Certificate,NQF 5,alternative,nqf 5,local,higher
+local:HIGHER_CERT,Higher Certificate,NQF level 5,alternative,nqf level 5,local,higher
+local:DIPLOMA,National Diploma / NQF 6 qualification,National Diploma,alternative,national diploma,local,higher
+local:DIPLOMA,National Diploma / NQF 6 qualification,Advanced Certificate,alternative,advanced certificate,local,higher
+local:DIPLOMA,National Diploma / NQF 6 qualification,NQF 6,alternative,nqf 6,local,higher
+local:DIPLOMA,National Diploma / NQF 6 qualification,NQF level 6,alternative,nqf level 6,local,higher
+local:DIPLOMA,National Diploma / NQF 6 qualification,National Diploma / NQF 6 qualification,preferred,national diploma / nqf 6 qualification,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,Degree,alternative,degree,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,Bachelor,alternative,bachelor,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,Bachelor's degree,alternative,bachelor's degree,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,BTech,alternative,btech,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,B-Tech,alternative,b-tech,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,B.Tech,alternative,b.tech,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,BEng,alternative,beng,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,B Eng,alternative,b eng,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,BSc,alternative,bsc,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,B.Com,alternative,b.com,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,BCom,alternative,bcom,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,LLB,alternative,llb,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,B.Proc,alternative,b.proc,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,NQF 7,alternative,nqf 7,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,NQF level 7,alternative,nqf level 7,local,higher
+local:DEGREE,Bachelor's degree / NQF 7,Bachelor's degree / NQF 7,preferred,bachelor's degree / nqf 7,local,higher
+local:HONOURS,Honours / postgraduate (NQF 8),Honours,alternative,honours,local,higher
+local:HONOURS,Honours / postgraduate (NQF 8),Postgraduate,alternative,postgraduate,local,higher
+local:HONOURS,Honours / postgraduate (NQF 8),Post-graduate,alternative,post-graduate,local,higher
+local:HONOURS,Honours / postgraduate (NQF 8),NQF 8,alternative,nqf 8,local,higher
+local:HONOURS,Honours / postgraduate (NQF 8),NQF level 8,alternative,nqf level 8,local,higher
+local:HONOURS,Honours / postgraduate (NQF 8),Honours / postgraduate (NQF 8),preferred,honours / postgraduate (nqf 8),local,higher
+local:TRADE_TEST,Trade test certificate (artisan),Trade test,alternative,trade test,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Trade-tested,alternative,trade-tested,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Trade tested,alternative,trade tested,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Red Seal,alternative,red seal,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Section 13,alternative,section 13,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Section 26D,alternative,section 26d,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Artisan qualification,alternative,artisan qualification,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Trade certificate,alternative,trade certificate,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Trade qualification,alternative,trade qualification,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Completed apprenticeship,alternative,completed apprenticeship,local,trade
+local:TRADE_TEST,Trade test certificate (artisan),Trade test certificate (artisan),preferred,trade test certificate (artisan),local,trade
+local:LEARNERSHIP,Learnership,Learnership,alternative,learnership,local,occupational
+local:LEARNERSHIP,Learnership,Learnerships,alternative,learnerships,local,occupational
+local:SETA_CERT,SETA-accredited certificate,SETA,alternative,seta,local,occupational
+local:SETA_CERT,SETA-accredited certificate,MQA,alternative,mqa,local,occupational
+local:SETA_CERT,SETA-accredited certificate,QCTO,alternative,qcto,local,occupational
+local:SETA_CERT,SETA-accredited certificate,ETDP SETA,alternative,etdp seta,local,occupational
+local:SETA_CERT,SETA-accredited certificate,SETA-accredited certificate,preferred,seta-accredited certificate,local,occupational
+local:ASSESSOR,Assessor / moderator certificate,Assessor,alternative,assessor,local,occupational
+local:ASSESSOR,Assessor / moderator certificate,Moderator,alternative,moderator,local,occupational
+local:ASSESSOR,Assessor / moderator certificate,ETDP,alternative,etdp,local,occupational
+local:ASSESSOR,Assessor / moderator certificate,Assessor / moderator certificate,preferred,assessor / moderator certificate,local,occupational
+local:LIC_ANY,Valid driver's licence (any code),Driver's licence,alternative,driver's licence,local,licence
+local:LIC_ANY,Valid driver's licence (any code),Drivers licence,alternative,drivers licence,local,licence
+local:LIC_ANY,Valid driver's licence (any code),Driver's license,alternative,driver's license,local,licence
+local:LIC_ANY,Valid driver's licence (any code),Drivers license,alternative,drivers license,local,licence
+local:LIC_ANY,Valid driver's licence (any code),Driving licence,alternative,driving licence,local,licence
+local:LIC_ANY,Valid driver's licence (any code),Valid driver's licence (any code),preferred,valid driver's licence (any code),local,licence
+local:LIC_B,Code B (old Code 08),Code 08,alternative,code 08,local,licence
+local:LIC_B,Code B (old Code 08),Code 8,alternative,code 8,local,licence
+local:LIC_B,Code B (old Code 08),Code B,alternative,code b,local,licence
+local:LIC_B,Code B (old Code 08),Code B (old Code 08),preferred,code b (old code 08),local,licence
+local:LIC_EB,Code EB,Code EB,alternative,code eb,local,licence
+local:LIC_C1,Code C1 (old Code 10),Code 10,alternative,code 10,local,licence
+local:LIC_C1,Code C1 (old Code 10),Code C1,alternative,code c1,local,licence
+local:LIC_C1,Code C1 (old Code 10),Code C1 (old Code 10),preferred,code c1 (old code 10),local,licence
+local:LIC_C,Code C,Code C,preferred,code c,local,licence
+local:LIC_EC,Code EC (old Code 14),Code 14,alternative,code 14,local,licence
+local:LIC_EC,Code EC (old Code 14),Code EC,alternative,code ec,local,licence
+local:LIC_EC,Code EC (old Code 14),Code EC (old Code 14),preferred,code ec (old code 14),local,licence
+local:PRDP,Professional Driving Permit (PrDP),PrDP,alternative,prdp,local,licence
+local:PRDP,Professional Driving Permit (PrDP),PDP,alternative,pdp,local,licence
+local:PRDP,Professional Driving Permit (PrDP),Professional Driving Permit,alternative,professional driving permit,local,licence
+local:PRDP,Professional Driving Permit (PrDP),Professional Driving Permit (PrDP),preferred,professional driving permit (prdp),local,licence
+local:REG_HPCSA,HPCSA registration,HPCSA,alternative,hpcsa,local,registration
+local:REG_HPCSA,HPCSA registration,Health Professions Council,alternative,health professions council,local,registration
+local:REG_HPCSA,HPCSA registration,HPCSA registration,preferred,hpcsa registration,local,registration
+local:REG_SANC,SANC registration (nursing),SANC,alternative,sanc,local,registration
+local:REG_SANC,SANC registration (nursing),South African Nursing Council,alternative,south african nursing council,local,registration
+local:REG_SANC,SANC registration (nursing),SANC registration (nursing),preferred,sanc registration (nursing),local,registration
+local:REG_SACSSP,SACSSP registration (social work),SACSSP,alternative,sacssp,local,registration
+local:REG_SACSSP,SACSSP registration (social work),SACSSP registration (social work),preferred,sacssp registration (social work),local,registration
+local:REG_SAPC,SAPC registration (pharmacy),SAPC,alternative,sapc,local,registration
+local:REG_SAPC,SAPC registration (pharmacy),SAPC registration (pharmacy),preferred,sapc registration (pharmacy),local,registration
+local:REG_ECSA,ECSA registration (engineering),ECSA,alternative,ecsa,local,registration
+local:REG_ECSA,ECSA registration (engineering),Engineering Council,alternative,engineering council,local,registration
+local:REG_ECSA,ECSA registration (engineering),Pr Eng,alternative,pr eng,local,registration
+local:REG_ECSA,ECSA registration (engineering),Professional Engineer,alternative,professional engineer,local,registration
+local:REG_ECSA,ECSA registration (engineering),Pr Tech,alternative,pr tech,local,registration
+local:REG_ECSA,ECSA registration (engineering),ECSA registration (engineering),preferred,ecsa registration (engineering),local,registration
+local:REG_SACPCMP,SACPCMP registration (construction PM),SACPCMP,alternative,sacpcmp,local,registration
+local:REG_SACPCMP,SACPCMP registration (construction PM),SACPCMP registration (construction PM),preferred,sacpcmp registration (construction pm),local,registration
+local:REG_SACQSP,SACQSP registration (quantity surveying),SACQSP,alternative,sacqsp,local,registration
+local:REG_SACQSP,SACQSP registration (quantity surveying),SACQSP registration (quantity surveying),preferred,sacqsp registration (quantity surveying),local,registration
+local:REG_SACAP,SACAP registration (architecture),SACAP,alternative,sacap,local,registration
+local:REG_SACAP,SACAP registration (architecture),SACAP registration (architecture),preferred,sacap registration (architecture),local,registration
+local:REG_SACE,SACE registration (educators),SACE,alternative,sace,local,registration
+local:REG_SACE,SACE registration (educators),SACE registration (educators),preferred,sace registration (educators),local,registration
+local:REG_PSIRA,PSIRA registration (security),PSIRA,alternative,psira,local,registration
+local:REG_PSIRA,PSIRA registration (security),PSIRA registration (security),preferred,psira registration (security),local,registration
+local:REG_EAPASA,EAPASA registration (environmental),EAPASA,alternative,eapasa,local,registration
+local:REG_EAPASA,EAPASA registration (environmental),EAPASA registration (environmental),preferred,eapasa registration (environmental),local,registration
+local:REG_SAIOSH,SAIOSH registration (safety),SAIOSH,alternative,saiosh,local,registration
+local:REG_SAIOSH,SAIOSH registration (safety),SAIOSH registration (safety),preferred,saiosh registration (safety),local,registration
+local:REG_CA,CA(SA) / SAICA / SAIPA / CIMA,CA(SA),alternative,ca(sa),local,registration
+local:REG_CA,CA(SA) / SAICA / SAIPA / CIMA,SAICA,alternative,saica,local,registration
+local:REG_CA,CA(SA) / SAICA / SAIPA / CIMA,SAIPA,alternative,saipa,local,registration
+local:REG_CA,CA(SA) / SAICA / SAIPA / CIMA,CIMA,alternative,cima,local,registration
+local:REG_CA,CA(SA) / SAICA / SAIPA / CIMA,CA(SA) / SAICA / SAIPA / CIMA,preferred,ca(sa) / saica / saipa / cima,local,registration
+local:REG_RE5,RE5 (financial services),RE5 (financial services),preferred,re5 (financial services),local,registration
+local:MIN_BLASTING,Blasting certificate,Blasting certificate,alternative,blasting certificate,local,mining
+local:MIN_COMPETENT,Competent A / B certificate,Competent A / B certificate,preferred,competent a / b certificate,local,mining
+local:MIN_MANAGER,Mine Manager's Certificate of Competency,Mine Manager's Certificate of Competency,preferred,mine manager's certificate of competency,local,mining
+local:MIN_SUPERVISOR,Production Supervisor Certificate of Competence,Production Supervisor Certificate,alternative,production supervisor certificate,local,mining
+local:MIN_SUPERVISOR,Production Supervisor Certificate of Competence,Production Supervisor Certificate of Competence,preferred,production supervisor certificate of competence,local,mining
+local:MIN_GCC,Government Certificate of Competency (GCC),Government Certificate of Competency,alternative,government certificate of competency,local,mining
+local:MIN_GCC,Government Certificate of Competency (GCC),Government Certificate of Competency (GCC),preferred,government certificate of competency (gcc),local,mining
+local:MIN_FITNESS,Medical Certificate of Fitness,Certificate of Fitness,alternative,certificate of fitness,local,mining
+local:MIN_FITNESS,Medical Certificate of Fitness,Medical certificate,alternative,medical certificate,local,mining
+local:MIN_FITNESS,Medical Certificate of Fitness,Medically fit,alternative,medically fit,local,mining
+local:MIN_FITNESS,Medical Certificate of Fitness,Medical Certificate of Fitness,preferred,medical certificate of fitness,local,mining
+local:MIN_VALUATION,Valuation certificate (COM),Valuation Certificate,alternative,valuation certificate,local,mining
+local:MIN_VALUATION,Valuation certificate (COM),Elementary Valuation,alternative,elementary valuation,local,mining
+local:MIN_VALUATION,Valuation certificate (COM),Basic Valuation,alternative,basic valuation,local,mining
+local:MIN_VALUATION,Valuation certificate (COM),advanced valuation,alternative,advanced valuation,local,mining
+local:MIN_VALUATION,Valuation certificate (COM),Valuation certificate (COM),preferred,valuation certificate (com),local,mining
+local:MIN_VENT,Mine Environmental Control certificate,Mine Environmental Control,alternative,mine environmental control,local,mining
+local:MIN_VENT,Mine Environmental Control certificate,Mine Environmental Control certificate,preferred,mine environmental control certificate,local,mining
+local:MIN_MHSA_APPT,MHSA / OHS Act legal appointment,legal appointment,alternative,legal appointment,local,mining
+local:MIN_MHSA_APPT,MHSA / OHS Act legal appointment,GMR 2.1,alternative,gmr 2.1,local,mining
+local:MIN_MHSA_APPT,MHSA / OHS Act legal appointment,MHSA / OHS Act legal appointment,preferred,mhsa / ohs act legal appointment,local,mining
+local:SAF_FIRSTAID,First Aid certificate,First Aid,alternative,first aid,local,safety
+local:SAF_FIRSTAID,First Aid certificate,First Aid certificate,preferred,first aid certificate,local,safety
+local:SAF_SAMTRAC,SAMTRAC,SAMTRAC,alternative,samtrac,local,safety
+local:SAF_FIREARM,Firearm competency certificate,Firearm competency,alternative,firearm competency,local,safety
+local:SAF_FIREARM,Firearm competency certificate,firearm competencies,alternative,firearm competencies,local,safety
+local:SAF_FIREARM,Firearm competency certificate,Firearm competency certificate,preferred,firearm competency certificate,local,safety
+local:EMS_QUAL,EMS qualification (BLS / ILS / ALS),Basic Life Support,alternative,basic life support,local,health
+local:EMS_QUAL,EMS qualification (BLS / ILS / ALS),Advanced Life Support,alternative,advanced life support,local,health
+local:EMS_QUAL,EMS qualification (BLS / ILS / ALS),Ambulance Emergency Assistant,alternative,ambulance emergency assistant,local,health
+local:EMS_QUAL,EMS qualification (BLS / ILS / ALS),EMS qualification (BLS / ILS / ALS),preferred,ems qualification (bls / ils / als),local,health
+local:EMS_CPG,Clinical Practice Guidelines (CPG) certificate,Clinical Practice Guidelines,alternative,clinical practice guidelines,local,health
+local:EMS_CPG,Clinical Practice Guidelines (CPG) certificate,Clinical Practice Guidelines (CPG) certificate,preferred,clinical practice guidelines (cpg) certificate,local,health
+local:NURSE_R425,Basic nursing qualification (R425),R425,alternative,r425,local,health
+local:NURSE_R425,Basic nursing qualification (R425),Basic nursing qualification (R425),preferred,basic nursing qualification (r425),local,health
+local:PS_NYUKELA,SMS Pre-Entry (Nyukela) certificate,Nyukela,alternative,nyukela,local,public_service
+local:PS_NYUKELA,SMS Pre-Entry (Nyukela) certificate,SMS Pre-Entry,alternative,sms pre-entry,local,public_service
+local:PS_NYUKELA,SMS Pre-Entry (Nyukela) certificate,Pre-Entry certificate,alternative,pre-entry certificate,local,public_service
+local:PS_NYUKELA,SMS Pre-Entry (Nyukela) certificate,SMS Pre-Entry (Nyukela) certificate,preferred,sms pre-entry (nyukela) certificate,local,public_service
+local:PS_PERSAL_CERT,PERSAL certificate,PERSAL certificate,alternative,persal certificate,local,public_service
+local:PS_PERSAL_CERT,PERSAL certificate,PERSAL training,alternative,persal training,local,public_service
+local:PS_PERSAL_CERT,PERSAL certificate,introductory PERSAL,alternative,introductory persal,local,public_service
+local:SYS_PERSAL,PERSAL (government payroll/HR system),PERSAL,alternative,persal,local,system
+local:SYS_PERSAL,PERSAL (government payroll/HR system),PERSAL (government payroll/HR system),preferred,persal (government payroll/hr system),local,system
+local:SYS_BAS,BAS (Basic Accounting System),BAS (Basic Accounting System),preferred,bas (basic accounting system),local,system
+local:SYS_LOGIS,LOGIS (government logistics system),LOGIS,alternative,logis,local,system
+local:SYS_LOGIS,LOGIS (government logistics system),LOGIS (government logistics system),preferred,logis (government logistics system),local,system
+local:SYS_NATIS,NaTIS (traffic information system),NaTIS,alternative,natis,local,system
+local:SYS_NATIS,NaTIS (traffic information system),NaTIS (traffic information system),preferred,natis (traffic information system),local,system
+local:SYS_CSD,Central Supplier Database (CSD),Central Supplier Database,alternative,central supplier database,local,system
+local:SYS_CSD,Central Supplier Database (CSD),e-tender,alternative,e-tender,local,system
+local:SYS_CSD,Central Supplier Database (CSD),Central Supplier Database (CSD),preferred,central supplier database (csd),local,system
+local:SYS_SAP,SAP,SAP,preferred,sap,local,system
+local:SYS_PASTEL,Pastel accounting,Pastel,alternative,pastel,local,system
+local:SYS_PASTEL,Pastel accounting,Pastel accounting,preferred,pastel accounting,local,system
+local:SYS_SYSPRO,Syspro ERP,Syspro,alternative,syspro,local,system
+local:SYS_SYSPRO,Syspro ERP,Syspro ERP,preferred,syspro erp,local,system
+local:SYS_DMS,Dealer management system (Evolve),Evolve,alternative,evolve,local,system
+local:SYS_DMS,Dealer management system (Evolve),dealer management system,alternative,dealer management system,local,system
+local:SYS_DMS,Dealer management system (Evolve),Dealer management system (Evolve),preferred,dealer management system (evolve),local,system
+local:SYS_EMIS,EMIS (education information system),EMIS,alternative,emis,local,system
+local:SYS_EMIS,EMIS (education information system),LURITS,alternative,lurits,local,system
+local:SYS_EMIS,EMIS (education information system),EMIS (education information system),preferred,emis (education information system),local,system
+local:LAW_PFMA,PFMA,PFMA,alternative,pfma,local,legislation
+local:LAW_PFMA,PFMA,Public Finance Management Act,alternative,public finance management act,local,legislation
+local:LAW_MFMA,MFMA,MFMA,alternative,mfma,local,legislation
+local:LAW_PPPFA,PPPFA / B-BBEE procurement,PPPFA,alternative,pppfa,local,legislation
+local:LAW_PPPFA,PPPFA / B-BBEE procurement,B-BBEE,alternative,b-bbee,local,legislation
+local:LAW_PPPFA,PPPFA / B-BBEE procurement,BBBEE,alternative,bbbee,local,legislation
+local:LAW_PPPFA,PPPFA / B-BBEE procurement,BBBEE Act,alternative,bbbee act,local,legislation
+local:LAW_PPPFA,PPPFA / B-BBEE procurement,PPPFA / B-BBEE procurement,preferred,pppfa / b-bbee procurement,local,legislation
+local:LAW_TREASURY,Treasury Regulations,Treasury Regulations,alternative,treasury regulations,local,legislation
+local:LAW_TREASURY,Treasury Regulations,DORA,alternative,dora,local,legislation
+local:LAW_MHSA,Mine Health and Safety Act,MHSA,alternative,mhsa,local,legislation
+local:LAW_MHSA,Mine Health and Safety Act,Mine Health and Safety Act,alternative,mine health and safety act,local,legislation
+local:LAW_MHSA,Mine Health and Safety Act,MPRDA,alternative,mprda,local,legislation
+local:LAW_OHS,OHS Act / COIDA,OHS Act,alternative,ohs act,local,legislation
+local:LAW_OHS,OHS Act / COIDA,OHSA,alternative,ohsa,local,legislation
+local:LAW_OHS,OHS Act / COIDA,Occupational Health and Safety Act,alternative,occupational health and safety act,local,legislation
+local:LAW_OHS,OHS Act / COIDA,COIDA,alternative,coida,local,legislation
+local:LAW_OHS,OHS Act / COIDA,OHS Act / COIDA,preferred,ohs act / coida,local,legislation
+local:LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)",LRA,alternative,lra,local,legislation
+local:LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)",BCEA,alternative,bcea,local,legislation
+local:LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)",Labour Relations Act,alternative,labour relations act,local,legislation
+local:LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)",Basic Conditions of Employment Act,alternative,basic conditions of employment act,local,legislation
+local:LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)",Employment Equity Act,alternative,employment equity act,local,legislation
+local:LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)",Skills Development Act,alternative,skills development act,local,legislation
+local:LAW_LABOUR,"Labour legislation (LRA, BCEA, EE Act)","Labour legislation (LRA, BCEA, EE Act)",preferred,"labour legislation (lra, bcea, ee act)",local,legislation
+local:LAW_POPIA,POPIA / PAIA,POPIA,alternative,popia,local,legislation
+local:LAW_POPIA,POPIA / PAIA,PAIA,alternative,paia,local,legislation
+local:LAW_POPIA,POPIA / PAIA,PAJA,alternative,paja,local,legislation
+local:LAW_POPIA,POPIA / PAIA,POPIA / PAIA,preferred,popia / paia,local,legislation
+local:LAW_NEMA,NEMA (environmental law),NEMA,alternative,nema,local,legislation
+local:LAW_NEMA,NEMA (environmental law),EIA Regulations,alternative,eia regulations,local,legislation
+local:LAW_NEMA,NEMA (environmental law),NEMA (environmental law),preferred,nema (environmental law),local,legislation
+local:LAW_CHILDREN,Children's Act / Older Persons Act,Older Persons Act,alternative,older persons act,local,legislation
+local:LAW_CHILDREN,Children's Act / Older Persons Act,Child Justice Act,alternative,child justice act,local,legislation
+local:LAW_CHILDREN,Children's Act / Older Persons Act,Children's Act / Older Persons Act,preferred,children's act / older persons act,local,legislation
+local:LAW_ROAD,Road traffic and transport legislation,National Road Traffic Act,alternative,national road traffic act,local,legislation
+local:LAW_ROAD,Road traffic and transport legislation,NRTA,alternative,nrta,local,legislation
+local:LAW_ROAD,Road traffic and transport legislation,NLTA,alternative,nlta,local,legislation
+local:LAW_ROAD,Road traffic and transport legislation,National Land Transport Act,alternative,national land transport act,local,legislation
+local:LAW_ROAD,Road traffic and transport legislation,Road traffic and transport legislation,preferred,road traffic and transport legislation,local,legislation
+local:LAW_CONSUMER,Consumer Protection / National Credit Act,Consumer Protection Act,alternative,consumer protection act,local,legislation
+local:LAW_CONSUMER,Consumer Protection / National Credit Act,National Credit Act,alternative,national credit act,local,legislation
+local:LAW_CONSUMER,Consumer Protection / National Credit Act,Consumer Protection / National Credit Act,preferred,consumer protection / national credit act,local,legislation
+local:FW_BATHO_PELE,Batho Pele principles,Batho Pele,alternative,batho pele,local,framework
+local:FW_BATHO_PELE,Batho Pele principles,Batho Pele principles,preferred,batho pele principles,local,framework
+local:FW_PMDS,PMDS (performance management),PMDS,alternative,pmds,local,framework
+local:FW_PMDS,PMDS (performance management),PMDS (performance management),preferred,pmds (performance management),local,framework
+local:FW_SIAS,SIAS / White Paper 6 (inclusive education),SIAS,alternative,sias,local,framework
+local:FW_SIAS,SIAS / White Paper 6 (inclusive education),White Paper 6,alternative,white paper 6,local,framework
+local:FW_SIAS,SIAS / White Paper 6 (inclusive education),SIAS / White Paper 6 (inclusive education),preferred,sias / white paper 6 (inclusive education),local,framework
+local:FW_ROADSPEC,"Road specifications (COLTO, COTO, TMH)",COLTO,alternative,colto,local,framework
+local:FW_ROADSPEC,"Road specifications (COLTO, COTO, TMH)",COTO,alternative,coto,local,framework
+local:FW_ROADSPEC,"Road specifications (COLTO, COTO, TMH)",TMH,alternative,tmh,local,framework
+local:FW_ROADSPEC,"Road specifications (COLTO, COTO, TMH)","Road specifications (COLTO, COTO, TMH)",preferred,"road specifications (colto, coto, tmh)",local,framework
+local:FW_CONTRACTS,"Construction contracts (GCC, FIDIC, NEC)",FIDIC,alternative,fidic,local,framework
+local:FW_CONTRACTS,"Construction contracts (GCC, FIDIC, NEC)",NEC contract,alternative,nec contract,local,framework
+local:FW_CONTRACTS,"Construction contracts (GCC, FIDIC, NEC)","Construction contracts (GCC, FIDIC, NEC)",preferred,"construction contracts (gcc, fidic, nec)",local,framework
