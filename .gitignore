@@ -11,9 +11,5 @@ __pycache__/
 .vscode/
 ~$*
 
-# ESCO download (large, licensed separately: download it yourself, see README)
-data/raw/esco/
-*.zip
-
 # Sentence-transformer model cache
 .cache/
